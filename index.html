@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>QuakeLog</title>
+<meta name="description" content="Peta arsip gempa bumi Indonesia dari data terbuka BMKG, diperbarui setiap 15 menit.">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<style>
+  :root {
+    --bg: #f7f7f5; --surface: #ffffff; --text: #1d1d1b; --muted: #6b6b66; --border: #e2e2dc;
+    --shallow: #d64933; --mid: #e8a33d; --deep: #3d7ea6;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #161615; --surface: #1f1f1d; --text: #ecece8; --muted: #9a9a93; --border: #33332f;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.5 system-ui, sans-serif; }
+  main { max-width: 1100px; margin: 0 auto; padding: 24px 16px 40px; }
+  h1 { margin: 0; font-size: 1.6rem; }
+  .sub { color: var(--muted); margin: 4px 0 20px; }
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; margin-bottom: 16px; }
+  .stat { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 12px 14px; }
+  .stat b { display: block; font-size: 1.4rem; font-variant-numeric: tabular-nums; }
+  .stat span { color: var(--muted); font-size: .85rem; }
+  #map { height: min(520px, 70vh); border-radius: 8px; border: 1px solid var(--border); }
+  .legend { display: flex; flex-wrap: wrap; gap: 16px; margin: 10px 0 24px; color: var(--muted); font-size: .85rem; }
+  .dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; vertical-align: middle; }
+  h2 { font-size: 1.1rem; margin: 0 0 8px; }
+  .table-wrap { overflow-x: auto; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; }
+  table { width: 100%; border-collapse: collapse; font-size: .9rem; }
+  th, td { text-align: left; padding: 8px 12px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+  td.loc { white-space: normal; min-width: 220px; }
+  th { color: var(--muted); font-weight: 600; }
+  tr:last-child td { border-bottom: 0; }
+  td.num { font-variant-numeric: tabular-nums; }
+  footer { margin-top: 24px; color: var(--muted); font-size: .85rem; }
+  a { color: inherit; }
+  .leaflet-popup-content { font: 13px/1.45 system-ui, sans-serif; }
+</style>
+</head>
+<body>
+<main>
+  <h1>QuakeLog</h1>
+  <p class="sub">Arsip gempa bumi Indonesia dari data terbuka BMKG, diperbarui otomatis setiap 15 menit.</p>
+
+  <div class="stats">
+    <div class="stat"><b id="s-total">-</b><span>gempa tercatat</span></div>
+    <div class="stat"><b id="s-m5">-</b><span>gempa M 5.0+</span></div>
+    <div class="stat"><b id="s-felt">-</b><span>gempa dirasakan</span></div>
+    <div class="stat"><b id="s-since">-</b><span>arsip sejak</span></div>
+  </div>
+
+  <div id="map" role="region" aria-label="Peta lokasi gempa"></div>
+  <div class="legend">
+    <span><i class="dot" style="background:var(--shallow)"></i>Dangkal (&lt; 60 km)</span>
+    <span><i class="dot" style="background:var(--mid)"></i>Menengah (60 sampai 300 km)</span>
+    <span><i class="dot" style="background:var(--deep)"></i>Dalam (&gt; 300 km)</span>
+    <span>Ukuran lingkaran sebanding dengan magnitudo</span>
+  </div>
+
+  <h2>10 gempa terbaru</h2>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Waktu (WIB)</th><th>M</th><th>Kedalaman</th><th>Lokasi</th></tr></thead>
+      <tbody id="latest"></tbody>
+    </table>
+  </div>
+
+  <footer>
+    Sumber data: <a href="https://data.bmkg.go.id/gempabumi/">Badan Meteorologi, Klimatologi, dan Geofisika (BMKG)</a>.
+    Kode dan arsip lengkap: <a href="https://github.com/SulthanAndyno/quakelog">github.com/SulthanAndyno/quakelog</a>.
+  </footer>
+</main>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+const css = name => getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+const depthColor = d => css(d < 60 ? "--shallow" : d <= 300 ? "--mid" : "--deep");
+const wib = iso => new Date(iso).toLocaleString("id-ID", {
+  timeZone: "Asia/Jakarta", day: "numeric", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit",
+});
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+
+const map = L.map("map").setView([-2.5, 118], 5);
+L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+  maxZoom: 12,
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+}).addTo(map);
+
+fetch("data/gempa.geojson", { cache: "no-cache" })
+  .then(r => r.json())
+  .then(geo => {
+    const feats = geo.features;
+    const props = feats.map(f => f.properties);
+    document.getElementById("s-total").textContent = props.length.toLocaleString("id-ID");
+    document.getElementById("s-m5").textContent = props.filter(p => p.magnitude >= 5).length.toLocaleString("id-ID");
+    document.getElementById("s-felt").textContent = props.filter(p => p.dirasakan).length.toLocaleString("id-ID");
+    document.getElementById("s-since").textContent = props.length
+      ? new Date(props[0].datetime_utc).toLocaleDateString("id-ID", { timeZone: "Asia/Jakarta", day: "numeric", month: "short", year: "numeric" })
+      : "-";
+
+    // gempa besar digambar terakhir supaya berada di atas
+    const sorted = [...feats].sort((a, b) => a.properties.magnitude - b.properties.magnitude);
+    L.geoJSON({ type: "FeatureCollection", features: sorted }, {
+      pointToLayer: (f, latlng) => L.circleMarker(latlng, {
+        radius: Math.max(3, (f.properties.magnitude - 1.5) * 3.2),
+        color: depthColor(f.properties.depth_km), fillColor: depthColor(f.properties.depth_km),
+        weight: 1, fillOpacity: .55,
+      }),
+      onEachFeature: (f, layer) => {
+        const p = f.properties;
+        layer.bindPopup(
+          `<b>M ${p.magnitude.toFixed(1)}</b>, kedalaman ${p.depth_km} km<br>${esc(wib(p.datetime_utc))} WIB<br>${esc(p.wilayah)}` +
+          (p.potensi ? `<br><i>${esc(p.potensi)}</i>` : "") +
+          (p.dirasakan ? `<br>Dirasakan: ${esc(p.dirasakan)}` : "")
+        );
+      },
+    }).addTo(map);
+
+    document.getElementById("latest").innerHTML = props.slice(-10).reverse().map(p =>
+      `<tr><td class="num">${esc(wib(p.datetime_utc))}</td><td class="num">${p.magnitude.toFixed(1)}</td>` +
+      `<td class="num">${p.depth_km} km</td><td class="loc">${esc(p.wilayah)}</td></tr>`
+    ).join("");
+  })
+  .catch(() => {
+    document.getElementById("latest").innerHTML = '<tr><td colspan="4">Data arsip gagal dimuat.</td></tr>';
+  });
+</script>
+</body>
+</html>
