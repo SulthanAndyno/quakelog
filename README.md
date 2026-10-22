@@ -1,8 +1,15 @@
 # QuakeLog
 
+[![archive](https://github.com/SulthanAndyno/quakelog/actions/workflows/archive.yml/badge.svg)](https://github.com/SulthanAndyno/quakelog/actions/workflows/archive.yml)
+[![ci](https://github.com/SulthanAndyno/quakelog/actions/workflows/ci.yml/badge.svg)](https://github.com/SulthanAndyno/quakelog/actions/workflows/ci.yml)
+
 Arsip historis gempa bumi Indonesia yang dibangun dari feed data terbuka BMKG. Feed BMKG hanya menampilkan gempa terbaru, 15 gempa M 5.0+ terakhir, dan 15 gempa dirasakan terakhir, sehingga kejadian yang lebih lama hilang dari feed. QuakeLog mengambil ketiga feed tersebut setiap 15 menit, menggabungkan kejadian yang sama dari feed berbeda, lalu menyimpannya ke arsip CSV yang terus bertambah.
 
-Arsip tersedia dalam format CSV ([`data/gempa.csv`](data/gempa.csv)) dan GeoJSON ([`data/gempa.geojson`](data/gempa.geojson)), diperbarui otomatis oleh GitHub Actions, dan divisualisasikan dalam [peta interaktif](https://sulthanandyno.github.io/quakelog/).
+Arsip tersedia dalam format CSV ([`data/gempa.csv`](data/gempa.csv)) dan GeoJSON ([`data/gempa.geojson`](data/gempa.geojson)), diperbarui otomatis oleh GitHub Actions, dan divisualisasikan dalam peta interaktif di [sulthanandyno.github.io/quakelog](https://sulthanandyno.github.io/quakelog/).
+
+Arsip mulai dikumpulkan pada 22 Oktober 2026. Eksekusi pertama mencatat 28 kejadian unik dari 31 entri feed (21 September sampai 21 Oktober 2026), karena tiga kejadian muncul di lebih dari satu feed.
+
+![Peta QuakeLog](docs/peta.png)
 
 ## Cara kerja
 
@@ -86,6 +93,7 @@ data/
 tests/            test dengan data contoh
 .github/workflows CI dan pengarsipan terjadwal
 index.html        halaman peta (GitHub Pages)
+docs/peta.png     tangkapan layar peta
 ```
 
 ## Sumber data

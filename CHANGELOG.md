@@ -2,6 +2,11 @@
 
 Format mengikuti [Keep a Changelog](https://keepachangelog.com/id-ID/1.1.0/).
 
+## [0.1.1] - 2026-10-22
+
+### Diubah
+- README: badge status workflow, tautan peta live, ringkasan eksekusi pertama, dan tangkapan layar peta.
+
 ## [0.1.0] - 2026-10-22
 
 ### Ditambahkan
