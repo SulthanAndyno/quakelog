@@ -1,18 +1,18 @@
 {
   "Infogempa": {
     "gempa": {
-      "Tanggal": "22 Okt 2026",
-      "Jam": "17:57:49 WIB",
-      "DateTime": "2026-10-22T10:57:49+00:00",
-      "Coordinates": "-3.11,102.14",
-      "Lintang": "3.11 LS",
-      "Bujur": "102.14 BT",
-      "Magnitude": "5.2",
-      "Kedalaman": "120 km",
-      "Wilayah": "Pusat gempa berada di darat 6 km BaratLaut Lebong",
+      "Tanggal": "25 Okt 2026",
+      "Jam": "14:40:01 WIB",
+      "DateTime": "2026-10-25T07:40:01+00:00",
+      "Coordinates": "4.24,97.65",
+      "Lintang": "4.24 LU",
+      "Bujur": "97.65 BT",
+      "Magnitude": "4.7",
+      "Kedalaman": "10 km",
+      "Wilayah": "Pusat gempa berada di darat 44 km barat Kab. Aceh Tamiang",
       "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "III Kota Bengkulu, II - III Curup, III Arga Makmur",
-      "Shakemap": "20261022175749.mmi.jpg"
+      "Dirasakan": "IV Gayo Lues",
+      "Shakemap": "20261025144001.mmi.jpg"
     }
   }
 }

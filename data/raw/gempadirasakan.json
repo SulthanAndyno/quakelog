@@ -2,6 +2,18 @@
   "Infogempa": {
     "gempa": [
       {
+        "Tanggal": "25 Okt 2026",
+        "Jam": "14:40:01 WIB",
+        "DateTime": "2026-10-25T07:40:01+00:00",
+        "Coordinates": "4.24,97.65",
+        "Lintang": "4.24 LU",
+        "Bujur": "97.65 BT",
+        "Magnitude": "4.7",
+        "Kedalaman": "10 km",
+        "Wilayah": "Pusat gempa berada di darat 44 km barat Kab. Aceh Tamiang",
+        "Dirasakan": "IV Gayo Lues"
+      },
+      {
         "Tanggal": "22 Okt 2026",
         "Jam": "17:57:49 WIB",
         "DateTime": "2026-10-22T10:57:49+00:00",
@@ -168,18 +180,6 @@
         "Kedalaman": "10 km",
         "Wilayah": "Pusat gempa berada di laut 49 km Barat KODI-SUMBABARATDAYA",
         "Dirasakan": "III Sumba Barat Daya, III Kota Bima, III Kab. Bima, III Sumbawa, III Sumba Barat"
-      },
-      {
-        "Tanggal": "17 Okt 2026",
-        "Jam": "15:20:52 WIB",
-        "DateTime": "2026-10-17T08:20:52+00:00",
-        "Coordinates": "-0.75,131.38",
-        "Lintang": "0.75 LS",
-        "Bujur": "131.38 BT",
-        "Magnitude": "4.2",
-        "Kedalaman": "3 km",
-        "Wilayah": "Pusat gempa berada di Laut 11 km TimurLaut Kota Sorong",
-        "Dirasakan": "III Sorong"
       }
     ]
   }
