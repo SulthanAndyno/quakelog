@@ -2,6 +2,18 @@
   "Infogempa": {
     "gempa": [
       {
+        "Tanggal": "27 Okt 2026",
+        "Jam": "21:43:13 WIB",
+        "DateTime": "2026-10-27T14:43:13+00:00",
+        "Coordinates": "-9.20,110.39",
+        "Lintang": "9.20 LS",
+        "Bujur": "110.39 BT",
+        "Magnitude": "5.4",
+        "Kedalaman": "10 km",
+        "Wilayah": "Pusat gempa berada di laut 137 km Selatan Gunungkidul",
+        "Dirasakan": "II Bantul, II Sleman, II Wonogiri, II Kulon Progo, II Sukoharjo, II Trenggalek, II Nganjuk, II Pacitan, II Klaten, II Kediri, II Ponorogo, II Banjarnegara, II Lumajang, II Blitar"
+      },
+      {
         "Tanggal": "26 Okt 2026",
         "Jam": "11:53:42 WIB",
         "DateTime": "2026-10-26T04:53:42+00:00",
@@ -168,18 +180,6 @@
         "Kedalaman": "5 km",
         "Wilayah": "Pusat gempa berada di laut 56 km utara Ruteng",
         "Dirasakan": "II-III Kab. Manggarai"
-      },
-      {
-        "Tanggal": "18 Okt 2026",
-        "Jam": "15:00:08 WIB",
-        "DateTime": "2026-10-18T08:00:08+00:00",
-        "Coordinates": "-8.09,120.26",
-        "Lintang": "8.09 LS",
-        "Bujur": "120.26 BT",
-        "Magnitude": "5.3",
-        "Kedalaman": "10 km",
-        "Wilayah": "Pusat gempa berada di laut 60 km timur laut Labuan Bajo",
-        "Dirasakan": "IV-V Kab. Manggarai, III Kab. Manggarai Barat, II-III Kab. Bima, II-III Kota Bima, I-II Kab. Nagekeo"
       }
     ]
   }

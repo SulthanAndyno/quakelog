@@ -1,18 +1,18 @@
 {
   "Infogempa": {
     "gempa": {
-      "Tanggal": "26 Okt 2026",
-      "Jam": "11:53:42 WIB",
-      "DateTime": "2026-10-26T04:53:42+00:00",
-      "Coordinates": "-8.45,121.45",
-      "Lintang": "8.45 LS",
-      "Bujur": "121.45 BT",
-      "Magnitude": "4.9",
-      "Kedalaman": "13 km",
-      "Wilayah": "Pusat gempa berada di laut 30 km timur laut Mbay, Nagekeo",
+      "Tanggal": "27 Okt 2026",
+      "Jam": "21:43:13 WIB",
+      "DateTime": "2026-10-27T14:43:13+00:00",
+      "Coordinates": "-9.20,110.39",
+      "Lintang": "9.20 LS",
+      "Bujur": "110.39 BT",
+      "Magnitude": "5.4",
+      "Kedalaman": "10 km",
+      "Wilayah": "Pusat gempa berada di laut 137 km Selatan Gunungkidul",
       "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "III Bajawa, III Maumere, II - III Ruteng",
-      "Shakemap": "20261026115342.mmi.jpg"
+      "Dirasakan": "II Bantul, II Sleman, II Wonogiri, II Kulon Progo, II Sukoharjo, II Trenggalek, II Nganjuk, II Pacitan, II Klaten, II Kediri, II Ponorogo, II Banjarnegara, II Lumajang, II Blitar",
+      "Shakemap": "20261027214313.mmi.jpg"
     }
   }
 }
