@@ -2,6 +2,30 @@
   "Infogempa": {
     "gempa": [
       {
+        "Tanggal": "28 Okt 2026",
+        "Jam": "18:59:15 WIB",
+        "DateTime": "2026-10-28T11:59:15+00:00",
+        "Coordinates": "-5.40,104.66",
+        "Lintang": "5.40 LS",
+        "Bujur": "104.66 BT",
+        "Magnitude": "3.4",
+        "Kedalaman": "4 km",
+        "Wilayah": "Pusat gempa berada di darat 10 km Utara Tanggamus",
+        "Dirasakan": "II Kotaagung, II Sumberejo, II Ulu Belu, II Talang Padang, II Pulau Panggung, II Sukoharjo"
+      },
+      {
+        "Tanggal": "28 Okt 2026",
+        "Jam": "15:23:46 WIB",
+        "DateTime": "2026-10-28T08:23:46+00:00",
+        "Coordinates": "-5.45,104.62",
+        "Lintang": "5.45 LS",
+        "Bujur": "104.62 BT",
+        "Magnitude": "4.7",
+        "Kedalaman": "10 km",
+        "Wilayah": "Pusat gempa berada di darat 8 km Barat Laut Tanggamus",
+        "Dirasakan": "III Kotaagung, II Kotabumi, II Pringsewu, II Ulu Belu, II Gisting, II Sumberejo, II Kotaagung Timur"
+      },
+      {
         "Tanggal": "27 Okt 2026",
         "Jam": "21:43:13 WIB",
         "DateTime": "2026-10-27T14:43:13+00:00",
@@ -156,30 +180,6 @@
         "Kedalaman": "5 km",
         "Wilayah": "Pusat gempa berada di laut 61 km utara Labuan Bajo",
         "Dirasakan": "II Kab. Manggarai"
-      },
-      {
-        "Tanggal": "19 Okt 2026",
-        "Jam": "16:45:57 WIB",
-        "DateTime": "2026-10-19T09:45:57+00:00",
-        "Coordinates": "-8.12,120.05",
-        "Lintang": "8.12 LS",
-        "Bujur": "120.05 BT",
-        "Magnitude": "4.8",
-        "Kedalaman": "19 km",
-        "Wilayah": "Pusat gempa berada di laut 45 km timur laut Labuan Bajo",
-        "Dirasakan": "I-II Kab. Manggarai"
-      },
-      {
-        "Tanggal": "18 Okt 2026",
-        "Jam": "15:02:46 WIB",
-        "DateTime": "2026-10-18T08:02:46+00:00",
-        "Coordinates": "-8.14,120.29",
-        "Lintang": "8.14 LS",
-        "Bujur": "120.29 BT",
-        "Magnitude": "4.1",
-        "Kedalaman": "5 km",
-        "Wilayah": "Pusat gempa berada di laut 56 km utara Ruteng",
-        "Dirasakan": "II-III Kab. Manggarai"
       }
     ]
   }

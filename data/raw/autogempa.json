@@ -2,17 +2,17 @@
   "Infogempa": {
     "gempa": {
       "Tanggal": "28 Okt 2026",
-      "Jam": "08:11:54 WIB",
-      "DateTime": "2026-10-28T01:11:54+00:00",
-      "Coordinates": "5.59,125.27",
-      "Lintang": "5.59 LU",
-      "Bujur": "125.27 BT",
-      "Magnitude": "5.4",
-      "Kedalaman": "10 km",
-      "Wilayah": "221 km BaratLaut PULAUKARATUNG-SULUT",
-      "Potensi": "Tidak berpotensi tsunami",
-      "Dirasakan": "-",
-      "Shakemap": "20261028081433.mmi.jpg"
+      "Jam": "18:59:15 WIB",
+      "DateTime": "2026-10-28T11:59:15+00:00",
+      "Coordinates": "-5.40,104.66",
+      "Lintang": "5.40 LS",
+      "Bujur": "104.66 BT",
+      "Magnitude": "3.4",
+      "Kedalaman": "4 km",
+      "Wilayah": "Pusat gempa berada di darat 10 km Utara Tanggamus",
+      "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+      "Dirasakan": "II Kotaagung, II Sumberejo, II Ulu Belu, II Talang Padang, II Pulau Panggung, II Sukoharjo",
+      "Shakemap": "20261028185915.mmi.jpg"
     }
   }
 }
