@@ -1,18 +1,18 @@
 {
   "Infogempa": {
     "gempa": {
-      "Tanggal": "29 Okt 2026",
-      "Jam": "10:26:49 WIB",
-      "DateTime": "2026-10-29T03:26:49+00:00",
-      "Coordinates": "-5.45,141.90",
-      "Lintang": "5.45 LS",
-      "Bujur": "141.90 BT",
-      "Magnitude": "6.0",
-      "Kedalaman": "120 km",
-      "Wilayah": "Pusat gempa berada di darat 153 km tenggara Oksibil",
-      "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "III Boven Digoel, II Jayapura, II Merauke",
-      "Shakemap": "20261029102649.mmi.jpg"
+      "Tanggal": "30 Okt 2026",
+      "Jam": "03:32:13 WIB",
+      "DateTime": "2026-10-29T20:32:13+00:00",
+      "Coordinates": "-4.40,132.49",
+      "Lintang": "4.40 LS",
+      "Bujur": "132.49 BT",
+      "Magnitude": "5.3",
+      "Kedalaman": "10 km",
+      "Wilayah": "139 km BaratLaut TUAL-MALUKU",
+      "Potensi": "Tidak berpotensi tsunami",
+      "Dirasakan": "-",
+      "Shakemap": "20261030033504.mmi.jpg"
     }
   }
 }

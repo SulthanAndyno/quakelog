@@ -2,6 +2,18 @@
   "Infogempa": {
     "gempa": [
       {
+        "Tanggal": "30 Okt 2026",
+        "Jam": "01:58:30 WIB",
+        "DateTime": "2026-10-29T18:58:30+00:00",
+        "Coordinates": "4.18,97.55",
+        "Lintang": "4.18 LU",
+        "Bujur": "97.55 BT",
+        "Magnitude": "4.3",
+        "Kedalaman": "5 km",
+        "Wilayah": "Pusat gempa berada di darat 31 km Timur Laut Kabupaten Gayolues",
+        "Dirasakan": "III Takengon"
+      },
+      {
         "Tanggal": "29 Okt 2026",
         "Jam": "10:26:49 WIB",
         "DateTime": "2026-10-29T03:26:49+00:00",
@@ -168,18 +180,6 @@
         "Kedalaman": "4 km",
         "Wilayah": "Pusat gempa berada di darat 30km Barat Daya Kab. Kupang",
         "Dirasakan": "III Kab. Kupang, III Kota Kupang"
-      },
-      {
-        "Tanggal": "19 Okt 2026",
-        "Jam": "20:46:11 WIB",
-        "DateTime": "2026-10-19T13:46:11+00:00",
-        "Coordinates": "4.16,97.51",
-        "Lintang": "4.16 LU",
-        "Bujur": "97.51 BT",
-        "Magnitude": "4.2",
-        "Kedalaman": "5 km",
-        "Wilayah": "Pusat gempa berada di darat 26 km Timur Laut Kab. Gayo Lues",
-        "Dirasakan": "III Kab. Gayo Lues, II Aceh Timur"
       }
     ]
   }
