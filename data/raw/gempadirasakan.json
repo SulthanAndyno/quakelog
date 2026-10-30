@@ -3,6 +3,18 @@
     "gempa": [
       {
         "Tanggal": "30 Okt 2026",
+        "Jam": "17:29:39 WIB",
+        "DateTime": "2026-10-30T10:29:39+00:00",
+        "Coordinates": "2.57,98.66",
+        "Lintang": "2.57 LU",
+        "Bujur": "98.66 BT",
+        "Magnitude": "3.5",
+        "Kedalaman": "3 km",
+        "Wilayah": "Pusat gempa berada di darat 7 km barat daya Samosir",
+        "Dirasakan": "II Pangururan, II Kec. Ronggur Nihuta"
+      },
+      {
+        "Tanggal": "30 Okt 2026",
         "Jam": "13:03:45 WIB",
         "DateTime": "2026-10-30T06:03:45+00:00",
         "Coordinates": "-0.72,131.38",
@@ -168,18 +180,6 @@
         "Kedalaman": "74 km",
         "Wilayah": "Pusat gempa berada di laut 59 km barat daya Meulaboh",
         "Dirasakan": "III Kab. Aceh Selatan, III Kab. Simeulue, III-IV Kab. Aceh Barat, III-IV Kab. Aceh Barat Daya, II Kab. Bener Meriah, II-III Kota Banda Aceh, II-III Kab. Aceh Besar , III-IV Kab. Nagan Raya"
-      },
-      {
-        "Tanggal": "20 Okt 2026",
-        "Jam": "18:28:11 WIB",
-        "DateTime": "2026-10-20T11:28:11+00:00",
-        "Coordinates": "-8.37,116.99",
-        "Lintang": "8.37 LS",
-        "Bujur": "116.99 BT",
-        "Magnitude": "3.7",
-        "Kedalaman": "15 km",
-        "Wilayah": "Pusat gempa berada di laut 6 km Barat Laut Pulau Saringi",
-        "Dirasakan": "III Kab. Sumbawa"
       }
     ]
   }
