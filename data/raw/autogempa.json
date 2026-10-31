@@ -1,18 +1,18 @@
 {
   "Infogempa": {
     "gempa": {
-      "Tanggal": "30 Okt 2026",
-      "Jam": "17:29:39 WIB",
-      "DateTime": "2026-10-30T10:29:39+00:00",
-      "Coordinates": "2.57,98.66",
-      "Lintang": "2.57 LU",
-      "Bujur": "98.66 BT",
+      "Tanggal": "31 Okt 2026",
+      "Jam": "15:23:13 WIB",
+      "DateTime": "2026-10-31T08:23:13+00:00",
+      "Coordinates": "-2.87,122.21",
+      "Lintang": "2.87 LS",
+      "Bujur": "122.21 BT",
       "Magnitude": "3.5",
-      "Kedalaman": "3 km",
-      "Wilayah": "Pusat gempa berada di darat 7 km barat daya Samosir",
+      "Kedalaman": "4 km",
+      "Wilayah": "Pusat gempa berada di laut 13 km tenggara Bahodopi",
       "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "II Pangururan, II Kec. Ronggur Nihuta",
-      "Shakemap": "20261030172939.mmi.jpg"
+      "Dirasakan": "II - III Morowali",
+      "Shakemap": "20261031152313.mmi.jpg"
     }
   }
 }
