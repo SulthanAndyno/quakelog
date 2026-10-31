@@ -2,6 +2,18 @@
   "Infogempa": {
     "gempa": [
       {
+        "Tanggal": "01 Nov 2026",
+        "Jam": "03:48:49 WIB",
+        "DateTime": "2026-10-31T20:48:49+00:00",
+        "Coordinates": "-3.92,122.63",
+        "Lintang": "3.92 LS",
+        "Bujur": "122.63 BT",
+        "Magnitude": "2.8",
+        "Kedalaman": "10 km",
+        "Wilayah": "Pusat gempa berada di darat 14 km Timur Laut Kendari",
+        "Dirasakan": "II - III Kota Kendari"
+      },
+      {
         "Tanggal": "31 Okt 2026",
         "Jam": "15:23:13 WIB",
         "DateTime": "2026-10-31T08:23:13+00:00",
@@ -168,18 +180,6 @@
         "Kedalaman": "120 km",
         "Wilayah": "Pusat gempa berada di darat 6 km BaratLaut Lebong",
         "Dirasakan": "III Kota Bengkulu, II - III Curup, III Arga Makmur"
-      },
-      {
-        "Tanggal": "21 Okt 2026",
-        "Jam": "18:58:36 WIB",
-        "DateTime": "2026-10-21T11:58:36+00:00",
-        "Coordinates": "-5.40,104.68",
-        "Lintang": "5.40 LS",
-        "Bujur": "104.68 BT",
-        "Magnitude": "2.5",
-        "Kedalaman": "3 km",
-        "Wilayah": "Pusat gempa berada di darat 9 km utara Tanggamus",
-        "Dirasakan": "II Tanggamus"
       }
     ]
   }
