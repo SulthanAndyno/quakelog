@@ -2,17 +2,17 @@
   "Infogempa": {
     "gempa": {
       "Tanggal": "01 Nov 2026",
-      "Jam": "03:48:49 WIB",
-      "DateTime": "2026-10-31T20:48:49+00:00",
-      "Coordinates": "-3.92,122.63",
-      "Lintang": "3.92 LS",
-      "Bujur": "122.63 BT",
-      "Magnitude": "2.8",
-      "Kedalaman": "10 km",
-      "Wilayah": "Pusat gempa berada di darat 14 km Timur Laut Kendari",
+      "Jam": "12:38:59 WIB",
+      "DateTime": "2026-11-01T05:38:59+00:00",
+      "Coordinates": "4.79,96.20",
+      "Lintang": "4.79 LU",
+      "Bujur": "96.20 BT",
+      "Magnitude": "4.1",
+      "Kedalaman": "6 km",
+      "Wilayah": "Pusat gempa berada di darat 24 km Barat Daya Kab. Pidie Jaya-Aceh",
       "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "II - III Kota Kendari",
-      "Shakemap": "20261101034849.mmi.jpg"
+      "Dirasakan": "",
+      "Shakemap": "20261101123859.mmi.jpg"
     }
   }
 }
