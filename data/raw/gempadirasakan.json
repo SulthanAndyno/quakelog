@@ -3,6 +3,18 @@
     "gempa": [
       {
         "Tanggal": "02 Nov 2026",
+        "Jam": "16:58:58 WIB",
+        "DateTime": "2026-11-02T09:58:58+00:00",
+        "Coordinates": "-2.49,140.66",
+        "Lintang": "2.49 LS",
+        "Bujur": "140.66 BT",
+        "Magnitude": "2.6",
+        "Kedalaman": "8 km",
+        "Wilayah": "Pusat gempa berada di darat 9 km Utara Kota Jayapura",
+        "Dirasakan": "III Jayapura"
+      },
+      {
+        "Tanggal": "02 Nov 2026",
         "Jam": "15:13:10 WIB",
         "DateTime": "2026-11-02T08:13:10+00:00",
         "Coordinates": "1.31,124.83",
@@ -168,18 +180,6 @@
         "Kedalaman": "10 km",
         "Wilayah": "Pusat gempa berada di laut 137 km Selatan Gunungkidul",
         "Dirasakan": "II Bantul, II Sleman, II Wonogiri, II Kulon Progo, II Sukoharjo, II Trenggalek, II Nganjuk, II Pacitan, II Klaten, II Kediri, II Ponorogo, II Banjarnegara, II Lumajang, II Blitar"
-      },
-      {
-        "Tanggal": "26 Okt 2026",
-        "Jam": "11:53:42 WIB",
-        "DateTime": "2026-10-26T04:53:42+00:00",
-        "Coordinates": "-8.45,121.45",
-        "Lintang": "8.45 LS",
-        "Bujur": "121.45 BT",
-        "Magnitude": "4.9",
-        "Kedalaman": "13 km",
-        "Wilayah": "Pusat gempa berada di laut 30 km timur laut Mbay, Nagekeo",
-        "Dirasakan": "III Bajawa, III Maumere, II - III Ruteng"
       }
     ]
   }
