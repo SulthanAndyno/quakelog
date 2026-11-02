@@ -2,17 +2,17 @@
   "Infogempa": {
     "gempa": {
       "Tanggal": "02 Nov 2026",
-      "Jam": "07:53:11 WIB",
-      "DateTime": "2026-11-02T00:53:11+00:00",
-      "Coordinates": "-7.08,130.07",
-      "Lintang": "7.08 LS",
-      "Bujur": "130.07 BT",
-      "Magnitude": "5.5",
-      "Kedalaman": "130 km",
-      "Wilayah": "Pusat gempa berada di laut 169 km BaratLaut Tanimbar",
+      "Jam": "15:13:10 WIB",
+      "DateTime": "2026-11-02T08:13:10+00:00",
+      "Coordinates": "1.31,124.83",
+      "Lintang": "1.31 LU",
+      "Bujur": "124.83 BT",
+      "Magnitude": "5.3",
+      "Kedalaman": "148 km",
+      "Wilayah": "Pusat gempa berada di darat 1 km Barat Daya Tomohon",
       "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "II Saumlaki",
-      "Shakemap": "20261102075311.mmi.jpg"
+      "Dirasakan": "II - III Ternate, II Minahasa",
+      "Shakemap": "20261102151310.mmi.jpg"
     }
   }
 }

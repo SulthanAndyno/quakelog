@@ -3,6 +3,18 @@
     "gempa": [
       {
         "Tanggal": "02 Nov 2026",
+        "Jam": "15:13:10 WIB",
+        "DateTime": "2026-11-02T08:13:10+00:00",
+        "Coordinates": "1.31,124.83",
+        "Lintang": "1.31 LU",
+        "Bujur": "124.83 BT",
+        "Magnitude": "5.3",
+        "Kedalaman": "148 km",
+        "Wilayah": "Pusat gempa berada di darat 1 km Barat Daya Tomohon",
+        "Dirasakan": "II - III Ternate, II Minahasa"
+      },
+      {
+        "Tanggal": "02 Nov 2026",
         "Jam": "07:53:11 WIB",
         "DateTime": "2026-11-02T00:53:11+00:00",
         "Coordinates": "-7.08,130.07",
@@ -168,18 +180,6 @@
         "Kedalaman": "13 km",
         "Wilayah": "Pusat gempa berada di laut 30 km timur laut Mbay, Nagekeo",
         "Dirasakan": "III Bajawa, III Maumere, II - III Ruteng"
-      },
-      {
-        "Tanggal": "25 Okt 2026",
-        "Jam": "19:47:26 WIB",
-        "DateTime": "2026-10-25T12:47:26+00:00",
-        "Coordinates": "-0.73,131.39",
-        "Lintang": "0.73 LS",
-        "Bujur": "131.39 BT",
-        "Magnitude": "3.8",
-        "Kedalaman": "6 km",
-        "Wilayah": "Pusat gempa berada di laut 13 km timur laut Kota Sorong",
-        "Dirasakan": "II Kota Sorong"
       }
     ]
   }
