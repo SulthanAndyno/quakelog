@@ -2,6 +2,18 @@
   "Infogempa": {
     "gempa": [
       {
+        "Tanggal": "02 Nov 2026",
+        "Jam": "07:53:11 WIB",
+        "DateTime": "2026-11-02T00:53:11+00:00",
+        "Coordinates": "-7.08,130.07",
+        "Lintang": "7.08 LS",
+        "Bujur": "130.07 BT",
+        "Magnitude": "5.5",
+        "Kedalaman": "130 km",
+        "Wilayah": "Pusat gempa berada di laut 169 km BaratLaut Tanimbar",
+        "Dirasakan": "II Saumlaki"
+      },
+      {
         "Tanggal": "01 Nov 2026",
         "Jam": "12:38:59 WIB",
         "DateTime": "2026-11-01T05:38:59+00:00",
@@ -168,18 +180,6 @@
         "Kedalaman": "6 km",
         "Wilayah": "Pusat gempa berada di laut 13 km timur laut Kota Sorong",
         "Dirasakan": "II Kota Sorong"
-      },
-      {
-        "Tanggal": "25 Okt 2026",
-        "Jam": "14:40:01 WIB",
-        "DateTime": "2026-10-25T07:40:01+00:00",
-        "Coordinates": "4.24,97.65",
-        "Lintang": "4.24 LU",
-        "Bujur": "97.65 BT",
-        "Magnitude": "4.7",
-        "Kedalaman": "10 km",
-        "Wilayah": "Pusat gempa berada di darat 44 km barat Kab. Aceh Tamiang",
-        "Dirasakan": "IV Gayo Lues"
       }
     ]
   }
