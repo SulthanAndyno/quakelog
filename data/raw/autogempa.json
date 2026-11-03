@@ -1,18 +1,18 @@
 {
   "Infogempa": {
     "gempa": {
-      "Tanggal": "02 Nov 2026",
-      "Jam": "16:58:58 WIB",
-      "DateTime": "2026-11-02T09:58:58+00:00",
-      "Coordinates": "-2.49,140.66",
-      "Lintang": "2.49 LS",
-      "Bujur": "140.66 BT",
-      "Magnitude": "2.6",
-      "Kedalaman": "8 km",
-      "Wilayah": "Pusat gempa berada di darat 9 km Utara Kota Jayapura",
+      "Tanggal": "03 Nov 2026",
+      "Jam": "22:37:50 WIB",
+      "DateTime": "2026-11-03T15:37:50+00:00",
+      "Coordinates": "-0.20,123.32",
+      "Lintang": "0.20 LS",
+      "Bujur": "123.32 BT",
+      "Magnitude": "4.8",
+      "Kedalaman": "87 km",
+      "Wilayah": "Pusat gempa berada di laut 86 km Selatan Kota Gorontalo",
       "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "III Jayapura",
-      "Shakemap": "20261102165858.mmi.jpg"
+      "Dirasakan": "III Kab. Gorontalo, II - III Kab. Bone Bolango, II - III Kab. Gorontalo Utara, II - III Kota Gorontalo, II - III Kab. Banggai, II - III Kab. Banggai Kepulauan",
+      "Shakemap": "20261103223750.mmi.jpg"
     }
   }
 }

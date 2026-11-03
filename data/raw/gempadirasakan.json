@@ -2,6 +2,30 @@
   "Infogempa": {
     "gempa": [
       {
+        "Tanggal": "03 Nov 2026",
+        "Jam": "22:37:50 WIB",
+        "DateTime": "2026-11-03T15:37:50+00:00",
+        "Coordinates": "-0.20,123.32",
+        "Lintang": "0.20 LS",
+        "Bujur": "123.32 BT",
+        "Magnitude": "4.8",
+        "Kedalaman": "87 km",
+        "Wilayah": "Pusat gempa berada di laut 86 km Selatan Kota Gorontalo",
+        "Dirasakan": "III Kab. Gorontalo, II - III Kab. Bone Bolango, II - III Kab. Gorontalo Utara, II - III Kota Gorontalo, II - III Kab. Banggai, II - III Kab. Banggai Kepulauan"
+      },
+      {
+        "Tanggal": "03 Nov 2026",
+        "Jam": "18:43:49 WIB",
+        "DateTime": "2026-11-03T11:43:49+00:00",
+        "Coordinates": "-8.27,120.63",
+        "Lintang": "8.27 LS",
+        "Bujur": "120.63 BT",
+        "Magnitude": "4.2",
+        "Kedalaman": "10 km",
+        "Wilayah": "Pusat gempa berada di laut 42 km Timur Laut Ruteng, Manggarai",
+        "Dirasakan": "II - III Kab. Nagekeo, II - III Kab. Manggarai"
+      },
+      {
         "Tanggal": "02 Nov 2026",
         "Jam": "16:58:58 WIB",
         "DateTime": "2026-11-02T09:58:58+00:00",
@@ -156,30 +180,6 @@
         "Kedalaman": "4 km",
         "Wilayah": "Pusat gempa berada di darat 10 km Utara Tanggamus",
         "Dirasakan": "II Kotaagung, II Sumberejo, II Ulu Belu, II Talang Padang, II Pulau Panggung, II Sukoharjo"
-      },
-      {
-        "Tanggal": "28 Okt 2026",
-        "Jam": "15:23:46 WIB",
-        "DateTime": "2026-10-28T08:23:46+00:00",
-        "Coordinates": "-5.45,104.62",
-        "Lintang": "5.45 LS",
-        "Bujur": "104.62 BT",
-        "Magnitude": "4.7",
-        "Kedalaman": "10 km",
-        "Wilayah": "Pusat gempa berada di darat 8 km Barat Laut Tanggamus",
-        "Dirasakan": "III Kotaagung, II Kotabumi, II Pringsewu, II Ulu Belu, II Gisting, II Sumberejo, II Kotaagung Timur"
-      },
-      {
-        "Tanggal": "27 Okt 2026",
-        "Jam": "21:43:13 WIB",
-        "DateTime": "2026-10-27T14:43:13+00:00",
-        "Coordinates": "-9.20,110.39",
-        "Lintang": "9.20 LS",
-        "Bujur": "110.39 BT",
-        "Magnitude": "5.4",
-        "Kedalaman": "10 km",
-        "Wilayah": "Pusat gempa berada di laut 137 km Selatan Gunungkidul",
-        "Dirasakan": "II Bantul, II Sleman, II Wonogiri, II Kulon Progo, II Sukoharjo, II Trenggalek, II Nganjuk, II Pacitan, II Klaten, II Kediri, II Ponorogo, II Banjarnegara, II Lumajang, II Blitar"
       }
     ]
   }
