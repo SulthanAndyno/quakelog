@@ -2,6 +2,18 @@
   "Infogempa": {
     "gempa": [
       {
+        "Tanggal": "04 Nov 2026",
+        "Jam": "03:28:35 WIB",
+        "DateTime": "2026-11-03T20:28:35+00:00",
+        "Coordinates": "-2.08,121.02",
+        "Lintang": "2.08 LS",
+        "Bujur": "121.02 BT",
+        "Magnitude": "4.1",
+        "Kedalaman": "6 km",
+        "Wilayah": "Pusat gempa berada di darat 61 km utara Luwu Timur",
+        "Dirasakan": "II - III Morowali Utara"
+      },
+      {
         "Tanggal": "03 Nov 2026",
         "Jam": "22:37:50 WIB",
         "DateTime": "2026-11-03T15:37:50+00:00",
@@ -168,18 +180,6 @@
         "Kedalaman": "160 km",
         "Wilayah": "Pusat gempa berada di laut 60 km Baratlaut Larat-Kep.Tanimbar",
         "Dirasakan": "II - III Banda Naira, II - III Tanimbar, II - III Kaimana, II - III Sorong"
-      },
-      {
-        "Tanggal": "28 Okt 2026",
-        "Jam": "18:59:15 WIB",
-        "DateTime": "2026-10-28T11:59:15+00:00",
-        "Coordinates": "-5.40,104.66",
-        "Lintang": "5.40 LS",
-        "Bujur": "104.66 BT",
-        "Magnitude": "3.4",
-        "Kedalaman": "4 km",
-        "Wilayah": "Pusat gempa berada di darat 10 km Utara Tanggamus",
-        "Dirasakan": "II Kotaagung, II Sumberejo, II Ulu Belu, II Talang Padang, II Pulau Panggung, II Sukoharjo"
       }
     ]
   }

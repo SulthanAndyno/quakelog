@@ -1,18 +1,18 @@
 {
   "Infogempa": {
     "gempa": {
-      "Tanggal": "03 Nov 2026",
-      "Jam": "22:37:50 WIB",
-      "DateTime": "2026-11-03T15:37:50+00:00",
-      "Coordinates": "-0.20,123.32",
-      "Lintang": "0.20 LS",
-      "Bujur": "123.32 BT",
-      "Magnitude": "4.8",
-      "Kedalaman": "87 km",
-      "Wilayah": "Pusat gempa berada di laut 86 km Selatan Kota Gorontalo",
+      "Tanggal": "04 Nov 2026",
+      "Jam": "03:28:35 WIB",
+      "DateTime": "2026-11-03T20:28:35+00:00",
+      "Coordinates": "-2.08,121.02",
+      "Lintang": "2.08 LS",
+      "Bujur": "121.02 BT",
+      "Magnitude": "4.1",
+      "Kedalaman": "6 km",
+      "Wilayah": "Pusat gempa berada di darat 61 km utara Luwu Timur",
       "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "III Kab. Gorontalo, II - III Kab. Bone Bolango, II - III Kab. Gorontalo Utara, II - III Kota Gorontalo, II - III Kab. Banggai, II - III Kab. Banggai Kepulauan",
-      "Shakemap": "20261103223750.mmi.jpg"
+      "Dirasakan": "II - III Morowali Utara",
+      "Shakemap": "20261104032835.mmi.jpg"
     }
   }
 }
