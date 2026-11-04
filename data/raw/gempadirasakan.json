@@ -3,6 +3,18 @@
     "gempa": [
       {
         "Tanggal": "04 Nov 2026",
+        "Jam": "14:56:34 WIB",
+        "DateTime": "2026-11-04T07:56:34+00:00",
+        "Coordinates": "-1.14,120.15",
+        "Lintang": "1.14 LS",
+        "Bujur": "120.15 BT",
+        "Magnitude": "3.4",
+        "Kedalaman": "10 km",
+        "Wilayah": "Pusat gempa berada di darat 40 km timur laut Sigi",
+        "Dirasakan": "III Sigi, II Palu"
+      },
+      {
+        "Tanggal": "04 Nov 2026",
         "Jam": "07:50:34 WIB",
         "DateTime": "2026-11-04T00:50:34+00:00",
         "Coordinates": "-7.94,120.89",
@@ -168,18 +180,6 @@
         "Kedalaman": "10 km",
         "Wilayah": "Pusat gempa berada di 20 km Timur Laut Kota Sorong",
         "Dirasakan": "II-III Sorong"
-      },
-      {
-        "Tanggal": "30 Okt 2026",
-        "Jam": "01:58:30 WIB",
-        "DateTime": "2026-10-29T18:58:30+00:00",
-        "Coordinates": "4.18,97.55",
-        "Lintang": "4.18 LU",
-        "Bujur": "97.55 BT",
-        "Magnitude": "4.3",
-        "Kedalaman": "5 km",
-        "Wilayah": "Pusat gempa berada di darat 31 km Timur Laut Kabupaten Gayolues",
-        "Dirasakan": "III Takengon"
       }
     ]
   }
