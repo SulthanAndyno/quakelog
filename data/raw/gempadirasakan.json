@@ -2,6 +2,42 @@
   "Infogempa": {
     "gempa": [
       {
+        "Tanggal": "07 Nov 2026",
+        "Jam": "02:07:01 WIB",
+        "DateTime": "2026-11-06T19:07:01+00:00",
+        "Coordinates": "-1.13,120.22",
+        "Lintang": "1.13 LS",
+        "Bujur": "120.22 BT",
+        "Magnitude": "4.9",
+        "Kedalaman": "10 km",
+        "Wilayah": "Pusat gempa berada di darat 47 km Timur Laut Sigi",
+        "Dirasakan": "IV Sigi, III Palu"
+      },
+      {
+        "Tanggal": "07 Nov 2026",
+        "Jam": "01:32:08 WIB",
+        "DateTime": "2026-11-06T18:32:08+00:00",
+        "Coordinates": "-8.48,115.87",
+        "Lintang": "8.48 LS",
+        "Bujur": "115.87 BT",
+        "Magnitude": "3.5",
+        "Kedalaman": "18 km",
+        "Wilayah": "Pusat gempa berada di laut 34 km barat daya Lombok Utara",
+        "Dirasakan": "II Mataram, II Lombok Barat, II Lombok Tengah"
+      },
+      {
+        "Tanggal": "07 Nov 2026",
+        "Jam": "00:38:52 WIB",
+        "DateTime": "2026-11-06T17:38:52+00:00",
+        "Coordinates": "-2.96,122.31",
+        "Lintang": "2.96 LS",
+        "Bujur": "122.31 BT",
+        "Magnitude": "3.3",
+        "Kedalaman": "5 km",
+        "Wilayah": "Pusat gempa berada di laut 54 km Tenggara Morowali",
+        "Dirasakan": "II - III Bungku Morowali"
+      },
+      {
         "Tanggal": "06 Nov 2026",
         "Jam": "17:30:55 WIB",
         "DateTime": "2026-11-06T10:30:55+00:00",
@@ -144,42 +180,6 @@
         "Kedalaman": "10 km",
         "Wilayah": "Pusat gempa berada di darat 14 km Timur Laut Kendari",
         "Dirasakan": "II - III Kota Kendari"
-      },
-      {
-        "Tanggal": "31 Okt 2026",
-        "Jam": "15:23:13 WIB",
-        "DateTime": "2026-10-31T08:23:13+00:00",
-        "Coordinates": "-2.87,122.21",
-        "Lintang": "2.87 LS",
-        "Bujur": "122.21 BT",
-        "Magnitude": "3.5",
-        "Kedalaman": "4 km",
-        "Wilayah": "Pusat gempa berada di laut 13 km tenggara Bahodopi",
-        "Dirasakan": "II - III Morowali"
-      },
-      {
-        "Tanggal": "31 Okt 2026",
-        "Jam": "12:39:20 WIB",
-        "DateTime": "2026-10-31T05:39:20+00:00",
-        "Coordinates": "-9.45,118.11",
-        "Lintang": "9.45 LS",
-        "Bujur": "118.11 BT",
-        "Magnitude": "4.8",
-        "Kedalaman": "28 km",
-        "Wilayah": "Pusat gempa berada di laut 97 km barat Kodi, Sumba Barat Daya",
-        "Dirasakan": "III Sumbawa"
-      },
-      {
-        "Tanggal": "30 Okt 2026",
-        "Jam": "17:29:39 WIB",
-        "DateTime": "2026-10-30T10:29:39+00:00",
-        "Coordinates": "2.57,98.66",
-        "Lintang": "2.57 LU",
-        "Bujur": "98.66 BT",
-        "Magnitude": "3.5",
-        "Kedalaman": "3 km",
-        "Wilayah": "Pusat gempa berada di darat 7 km barat daya Samosir",
-        "Dirasakan": "II Pangururan, II Kec. Ronggur Nihuta"
       }
     ]
   }
