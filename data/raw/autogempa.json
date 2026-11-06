@@ -1,18 +1,18 @@
 {
   "Infogempa": {
     "gempa": {
-      "Tanggal": "04 Nov 2026",
-      "Jam": "14:56:34 WIB",
-      "DateTime": "2026-11-04T07:56:34+00:00",
-      "Coordinates": "-1.14,120.15",
-      "Lintang": "1.14 LS",
-      "Bujur": "120.15 BT",
-      "Magnitude": "3.4",
-      "Kedalaman": "10 km",
-      "Wilayah": "Pusat gempa berada di darat 40 km timur laut Sigi",
+      "Tanggal": "06 Nov 2026",
+      "Jam": "17:30:55 WIB",
+      "DateTime": "2026-11-06T10:30:55+00:00",
+      "Coordinates": "-1.19,98.73",
+      "Lintang": "1.19 LS",
+      "Bujur": "98.73 BT",
+      "Magnitude": "4.3",
+      "Kedalaman": "17 km",
+      "Wilayah": "Pusat gempa berada di darat 130 km barat laut Kep. Mentawai",
       "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "III Sigi, II Palu",
-      "Shakemap": "20261104145634.mmi.jpg"
+      "Dirasakan": "III Siberut Barat, III Siberut Utara, II Siberut Tengah, I Kab. Nias Selatan",
+      "Shakemap": "20261106173055.mmi.jpg"
     }
   }
 }
