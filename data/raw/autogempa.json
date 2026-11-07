@@ -2,17 +2,17 @@
   "Infogempa": {
     "gempa": {
       "Tanggal": "07 Nov 2026",
-      "Jam": "02:07:01 WIB",
-      "DateTime": "2026-11-06T19:07:01+00:00",
-      "Coordinates": "-1.13,120.22",
-      "Lintang": "1.13 LS",
-      "Bujur": "120.22 BT",
-      "Magnitude": "4.9",
+      "Jam": "17:05:52 WIB",
+      "DateTime": "2026-11-07T10:05:52+00:00",
+      "Coordinates": "-8.37,116.54",
+      "Lintang": "8.37 LS",
+      "Bujur": "116.54 BT",
+      "Magnitude": "3.0",
       "Kedalaman": "10 km",
-      "Wilayah": "Pusat gempa berada di darat 47 km Timur Laut Sigi",
+      "Wilayah": "Pusat gempa berada di darat 31 km utara Lombok Timur",
       "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "IV Sigi, III Palu",
-      "Shakemap": "20261107020701.mmi.jpg"
+      "Dirasakan": "II Lombok Timur",
+      "Shakemap": "20261107170552.mmi.jpg"
     }
   }
 }
