@@ -1,18 +1,18 @@
 {
   "Infogempa": {
     "gempa": {
-      "Tanggal": "07 Nov 2026",
-      "Jam": "17:05:52 WIB",
-      "DateTime": "2026-11-07T10:05:52+00:00",
-      "Coordinates": "-8.37,116.54",
-      "Lintang": "8.37 LS",
-      "Bujur": "116.54 BT",
-      "Magnitude": "3.0",
-      "Kedalaman": "10 km",
-      "Wilayah": "Pusat gempa berada di darat 31 km utara Lombok Timur",
+      "Tanggal": "08 Nov 2026",
+      "Jam": "01:54:12 WIB",
+      "DateTime": "2026-11-07T18:54:12+00:00",
+      "Coordinates": "-4.01,122.69",
+      "Lintang": "4.01 LS",
+      "Bujur": "122.69 BT",
+      "Magnitude": "3.3",
+      "Kedalaman": "5 km",
+      "Wilayah": "Pusat gempa berada di darat 20 km timur Kendari",
       "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "II Lombok Timur",
-      "Shakemap": "20261107170552.mmi.jpg"
+      "Dirasakan": "",
+      "Shakemap": "20261108015412.mmi.jpg"
     }
   }
 }
