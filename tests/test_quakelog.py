@@ -70,3 +70,23 @@ def test_quality_flags_bad_rows():
     assert run_checks(archive) == {}
     archive["20261021T074415_-7.75_128.18"]["magnitude"] = "12.0"
     assert run_checks(archive) == {"magnitudo harus di antara 0 dan 10": ["20261021T074415_-7.75_128.18"]}
+
+
+def test_fetch_retries_truncated_response(monkeypatch, tmp_path):
+    import http.client
+    import io
+
+    from quakelog import fetch
+
+    calls = []
+
+    def urlopen(req, timeout):
+        calls.append(req.full_url)
+        if len(calls) == 1:
+            raise http.client.IncompleteRead(b'{"Infogempa":', 87)
+        return io.BytesIO(json.dumps(FEEDS["gempaterkini"]).encode())
+
+    monkeypatch.setattr(fetch.urllib.request, "urlopen", urlopen)
+    monkeypatch.setattr(fetch.time, "sleep", lambda s: None)
+    assert fetch.fetch_feed("gempaterkini") == FEEDS["gempaterkini"]
+    assert len(calls) == 2
