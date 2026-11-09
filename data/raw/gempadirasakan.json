@@ -2,6 +2,18 @@
   "Infogempa": {
     "gempa": [
       {
+        "Tanggal": "09 Nov 2026",
+        "Jam": "07:44:58 WIB",
+        "DateTime": "2026-11-09T00:44:58+00:00",
+        "Coordinates": "1.06,127.47",
+        "Lintang": "1.06 LU",
+        "Bujur": "127.47 BT",
+        "Magnitude": "2.5",
+        "Kedalaman": "10 km",
+        "Wilayah": "Pusat gempa berada di laut 1 km timur Jailolo",
+        "Dirasakan": "II Kab. Halmahera Barat"
+      },
+      {
         "Tanggal": "08 Nov 2026",
         "Jam": "01:54:12 WIB",
         "DateTime": "2026-11-07T18:54:12+00:00",
@@ -168,18 +180,6 @@
         "Kedalaman": "148 km",
         "Wilayah": "Pusat gempa berada di darat 1 km Barat Daya Tomohon",
         "Dirasakan": "II - III Ternate, II Minahasa"
-      },
-      {
-        "Tanggal": "02 Nov 2026",
-        "Jam": "07:53:11 WIB",
-        "DateTime": "2026-11-02T00:53:11+00:00",
-        "Coordinates": "-7.08,130.07",
-        "Lintang": "7.08 LS",
-        "Bujur": "130.07 BT",
-        "Magnitude": "5.5",
-        "Kedalaman": "130 km",
-        "Wilayah": "Pusat gempa berada di laut 169 km BaratLaut Tanimbar",
-        "Dirasakan": "II Saumlaki"
       }
     ]
   }
