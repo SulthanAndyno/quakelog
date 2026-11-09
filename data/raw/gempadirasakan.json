@@ -3,6 +3,18 @@
     "gempa": [
       {
         "Tanggal": "09 Nov 2026",
+        "Jam": "16:48:29 WIB",
+        "DateTime": "2026-11-09T09:48:29+00:00",
+        "Coordinates": "-2.93,130.44",
+        "Lintang": "2.93 LS",
+        "Bujur": "130.44 BT",
+        "Magnitude": "5.5",
+        "Kedalaman": "10 km",
+        "Wilayah": "Pusat gempa berada di laut 20 km barat laut Seram Bagian Timur",
+        "Dirasakan": "III-IV Kecamatan Bula"
+      },
+      {
+        "Tanggal": "09 Nov 2026",
         "Jam": "07:44:58 WIB",
         "DateTime": "2026-11-09T00:44:58+00:00",
         "Coordinates": "1.06,127.47",
@@ -168,18 +180,6 @@
         "Kedalaman": "8 km",
         "Wilayah": "Pusat gempa berada di darat 9 km Utara Kota Jayapura",
         "Dirasakan": "III Jayapura"
-      },
-      {
-        "Tanggal": "02 Nov 2026",
-        "Jam": "15:13:10 WIB",
-        "DateTime": "2026-11-02T08:13:10+00:00",
-        "Coordinates": "1.31,124.83",
-        "Lintang": "1.31 LU",
-        "Bujur": "124.83 BT",
-        "Magnitude": "5.3",
-        "Kedalaman": "148 km",
-        "Wilayah": "Pusat gempa berada di darat 1 km Barat Daya Tomohon",
-        "Dirasakan": "II - III Ternate, II Minahasa"
       }
     ]
   }
