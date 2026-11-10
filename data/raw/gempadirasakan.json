@@ -2,6 +2,30 @@
   "Infogempa": {
     "gempa": [
       {
+        "Tanggal": "10 Nov 2026",
+        "Jam": "08:53:28 WIB",
+        "DateTime": "2026-11-10T01:53:28+00:00",
+        "Coordinates": "-8.02,130.49",
+        "Lintang": "8.02 LS",
+        "Bujur": "130.49 BT",
+        "Magnitude": "5.4",
+        "Kedalaman": "84 km",
+        "Wilayah": "Pusat gempa berada di laut 90 km barat daya Tanimbar",
+        "Dirasakan": "III Saumlaki"
+      },
+      {
+        "Tanggal": "10 Nov 2026",
+        "Jam": "07:49:12 WIB",
+        "DateTime": "2026-11-10T00:49:12+00:00",
+        "Coordinates": "-0.52,123.76",
+        "Lintang": "0.52 LS",
+        "Bujur": "123.76 BT",
+        "Magnitude": "4.5",
+        "Kedalaman": "14 km",
+        "Wilayah": "Pusat gempa berada di laut 103 km selatan Bolaanguki-Bolsel",
+        "Dirasakan": "II - III Luwuk"
+      },
+      {
         "Tanggal": "09 Nov 2026",
         "Jam": "17:38:54 WIB",
         "DateTime": "2026-11-09T10:38:54+00:00",
@@ -156,30 +180,6 @@
         "Kedalaman": "6 km",
         "Wilayah": "Pusat gempa berada di darat 61 km utara Luwu Timur",
         "Dirasakan": "II - III Morowali Utara"
-      },
-      {
-        "Tanggal": "03 Nov 2026",
-        "Jam": "22:37:50 WIB",
-        "DateTime": "2026-11-03T15:37:50+00:00",
-        "Coordinates": "-0.20,123.32",
-        "Lintang": "0.20 LS",
-        "Bujur": "123.32 BT",
-        "Magnitude": "4.8",
-        "Kedalaman": "87 km",
-        "Wilayah": "Pusat gempa berada di laut 86 km Selatan Kota Gorontalo",
-        "Dirasakan": "III Kab. Gorontalo, II - III Kab. Bone Bolango, II - III Kab. Gorontalo Utara, II - III Kota Gorontalo, II - III Kab. Banggai, II - III Kab. Banggai Kepulauan"
-      },
-      {
-        "Tanggal": "03 Nov 2026",
-        "Jam": "18:43:49 WIB",
-        "DateTime": "2026-11-03T11:43:49+00:00",
-        "Coordinates": "-8.27,120.63",
-        "Lintang": "8.27 LS",
-        "Bujur": "120.63 BT",
-        "Magnitude": "4.2",
-        "Kedalaman": "10 km",
-        "Wilayah": "Pusat gempa berada di laut 42 km Timur Laut Ruteng, Manggarai",
-        "Dirasakan": "II - III Kab. Nagekeo, II - III Kab. Manggarai"
       }
     ]
   }

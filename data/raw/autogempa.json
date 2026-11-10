@@ -1,18 +1,18 @@
 {
   "Infogempa": {
     "gempa": {
-      "Tanggal": "09 Nov 2026",
-      "Jam": "17:38:54 WIB",
-      "DateTime": "2026-11-09T10:38:54+00:00",
-      "Coordinates": "-8.34,121.52",
-      "Lintang": "8.34 LS",
-      "Bujur": "121.52 BT",
-      "Magnitude": "3.9",
-      "Kedalaman": "10 km",
-      "Wilayah": "Pusat gempa berada di laut 44 km timur laut Mbay-Nagekeo",
+      "Tanggal": "10 Nov 2026",
+      "Jam": "08:53:28 WIB",
+      "DateTime": "2026-11-10T01:53:28+00:00",
+      "Coordinates": "-8.02,130.49",
+      "Lintang": "8.02 LS",
+      "Bujur": "130.49 BT",
+      "Magnitude": "5.4",
+      "Kedalaman": "84 km",
+      "Wilayah": "Pusat gempa berada di laut 90 km barat daya Tanimbar",
       "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "II - III Kab. Nagekeo",
-      "Shakemap": "20261109173854.mmi.jpg"
+      "Dirasakan": "III Saumlaki",
+      "Shakemap": "20261110085328.mmi.jpg"
     }
   }
 }
