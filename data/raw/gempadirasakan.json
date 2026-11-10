@@ -3,6 +3,30 @@
     "gempa": [
       {
         "Tanggal": "10 Nov 2026",
+        "Jam": "23:04:15 WIB",
+        "DateTime": "2026-11-10T16:04:15+00:00",
+        "Coordinates": "-4.29,122.38",
+        "Lintang": "4.29 LS",
+        "Bujur": "122.38 BT",
+        "Magnitude": "4.0",
+        "Kedalaman": "5 km",
+        "Wilayah": "Pusat gempa berada di darat 12 km timur Konawe Selatan",
+        "Dirasakan": "IV Konawe Selatan, III Kendari"
+      },
+      {
+        "Tanggal": "10 Nov 2026",
+        "Jam": "21:31:38 WIB",
+        "DateTime": "2026-11-10T14:31:38+00:00",
+        "Coordinates": "-7.04,106.98",
+        "Lintang": "7.04 LS",
+        "Bujur": "106.98 BT",
+        "Magnitude": "4.0",
+        "Kedalaman": "102 km",
+        "Wilayah": "Pusat gempa berada di darat 15 km selatan Kota Sukabumi",
+        "Dirasakan": "III Cianjur, II Sukabumi, II - III Ciwidey, II - III Pangalengan, II - III Nagrak, II Kec. Kebonpedes, II Cihanjuang, II Padalarang, II Cihideung, II Ngamprah, II Cisarua, II Lembang, II Karawang Selatan"
+      },
+      {
+        "Tanggal": "10 Nov 2026",
         "Jam": "15:34:04 WIB",
         "DateTime": "2026-11-10T08:34:04+00:00",
         "Coordinates": "-0.19,132.98",
@@ -156,30 +180,6 @@
         "Kedalaman": "10 km",
         "Wilayah": "Pusat gempa berada di darat 40 km timur laut Sigi",
         "Dirasakan": "III Sigi, II Palu"
-      },
-      {
-        "Tanggal": "04 Nov 2026",
-        "Jam": "07:50:34 WIB",
-        "DateTime": "2026-11-04T00:50:34+00:00",
-        "Coordinates": "-7.94,120.89",
-        "Lintang": "7.94 LS",
-        "Bujur": "120.89 BT",
-        "Magnitude": "4.4",
-        "Kedalaman": "15 km",
-        "Wilayah": "Pusat gempa berada di laut 88 km timur laut Ruteng, Manggarai",
-        "Dirasakan": "III Kab. Manggarai"
-      },
-      {
-        "Tanggal": "04 Nov 2026",
-        "Jam": "07:46:08 WIB",
-        "DateTime": "2026-11-04T00:46:08+00:00",
-        "Coordinates": "-3.22,135.53",
-        "Lintang": "3.22 LS",
-        "Bujur": "135.53 BT",
-        "Magnitude": "4.6",
-        "Kedalaman": "23 km",
-        "Wilayah": "Pusat gempa berada di laut 16 km utara Nabire",
-        "Dirasakan": "II - III Nabire"
       }
     ]
   }
