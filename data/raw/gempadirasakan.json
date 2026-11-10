@@ -3,6 +3,18 @@
     "gempa": [
       {
         "Tanggal": "10 Nov 2026",
+        "Jam": "15:34:04 WIB",
+        "DateTime": "2026-11-10T08:34:04+00:00",
+        "Coordinates": "-0.19,132.98",
+        "Lintang": "0.19 LS",
+        "Bujur": "132.98 BT",
+        "Magnitude": "5.3",
+        "Kedalaman": "10 km",
+        "Wilayah": "Pusat gempa berada di laut 69 km barat laut Kebar Manokwari",
+        "Dirasakan": "II - III Manokwari"
+      },
+      {
+        "Tanggal": "10 Nov 2026",
         "Jam": "08:53:28 WIB",
         "DateTime": "2026-11-10T01:53:28+00:00",
         "Coordinates": "-8.02,130.49",
@@ -168,18 +180,6 @@
         "Kedalaman": "23 km",
         "Wilayah": "Pusat gempa berada di laut 16 km utara Nabire",
         "Dirasakan": "II - III Nabire"
-      },
-      {
-        "Tanggal": "04 Nov 2026",
-        "Jam": "03:28:35 WIB",
-        "DateTime": "2026-11-03T20:28:35+00:00",
-        "Coordinates": "-2.08,121.02",
-        "Lintang": "2.08 LS",
-        "Bujur": "121.02 BT",
-        "Magnitude": "4.1",
-        "Kedalaman": "6 km",
-        "Wilayah": "Pusat gempa berada di darat 61 km utara Luwu Timur",
-        "Dirasakan": "II - III Morowali Utara"
       }
     ]
   }
