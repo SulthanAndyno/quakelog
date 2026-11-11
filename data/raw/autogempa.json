@@ -1,18 +1,18 @@
 {
   "Infogempa": {
     "gempa": {
-      "Tanggal": "10 Nov 2026",
-      "Jam": "23:04:15 WIB",
-      "DateTime": "2026-11-10T16:04:15+00:00",
-      "Coordinates": "-4.29,122.38",
-      "Lintang": "4.29 LS",
-      "Bujur": "122.38 BT",
-      "Magnitude": "4.0",
+      "Tanggal": "11 Nov 2026",
+      "Jam": "06:05:21 WIB",
+      "DateTime": "2026-11-10T23:05:21+00:00",
+      "Coordinates": "4.15,97.49",
+      "Lintang": "4.15 LU",
+      "Bujur": "97.49 BT",
+      "Magnitude": "4.3",
       "Kedalaman": "5 km",
-      "Wilayah": "Pusat gempa berada di darat 12 km timur Konawe Selatan",
+      "Wilayah": "Pusat gempa berada di darat 23 km timur laut Kab. Gayo Lues",
       "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "IV Konawe Selatan, III Kendari",
-      "Shakemap": "20261110230415.mmi.jpg"
+      "Dirasakan": "III Gayo Lues, II-III Aceh Tengah, II-III Bener Meriah",
+      "Shakemap": "20261111060521.mmi.jpg"
     }
   }
 }
