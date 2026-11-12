@@ -1,18 +1,18 @@
 {
   "Infogempa": {
     "gempa": {
-      "Tanggal": "12 Nov 2026",
-      "Jam": "21:19:05 WIB",
-      "DateTime": "2026-11-12T14:19:05+00:00",
-      "Coordinates": "-3.95,121.66",
-      "Lintang": "3.95 LS",
-      "Bujur": "121.66 BT",
-      "Magnitude": "1.9",
+      "Tanggal": "13 Nov 2026",
+      "Jam": "02:14:40 WIB",
+      "DateTime": "2026-11-12T19:14:40+00:00",
+      "Coordinates": "-8.20,116.76",
+      "Lintang": "8.20 LS",
+      "Bujur": "116.76 BT",
+      "Magnitude": "4.6",
       "Kedalaman": "17 km",
-      "Wilayah": "Pusat gempa berada di darat 13 km utara Kolaka",
+      "Wilayah": "Pusat gempa berada di laut 32 km barat laut Pulau Panjang",
       "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "II Kolaka",
-      "Shakemap": "20261112211905.mmi.jpg"
+      "Dirasakan": "III Kab. Sumbawa, III Kab. Sumbawa Barat, III Kab. Lombok Utara, III Kab. Lombok Timur, II Kota Mataram",
+      "Shakemap": "20261113021440.mmi.jpg"
     }
   }
 }
