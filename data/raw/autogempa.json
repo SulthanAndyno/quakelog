@@ -1,18 +1,18 @@
 {
   "Infogempa": {
     "gempa": {
-      "Tanggal": "11 Nov 2026",
-      "Jam": "06:05:21 WIB",
-      "DateTime": "2026-11-10T23:05:21+00:00",
-      "Coordinates": "4.15,97.49",
-      "Lintang": "4.15 LU",
-      "Bujur": "97.49 BT",
-      "Magnitude": "4.3",
-      "Kedalaman": "5 km",
-      "Wilayah": "Pusat gempa berada di darat 23 km timur laut Kab. Gayo Lues",
+      "Tanggal": "12 Nov 2026",
+      "Jam": "21:19:05 WIB",
+      "DateTime": "2026-11-12T14:19:05+00:00",
+      "Coordinates": "-3.95,121.66",
+      "Lintang": "3.95 LS",
+      "Bujur": "121.66 BT",
+      "Magnitude": "1.9",
+      "Kedalaman": "17 km",
+      "Wilayah": "Pusat gempa berada di darat 13 km utara Kolaka",
       "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "III Gayo Lues, II-III Aceh Tengah, II-III Bener Meriah",
-      "Shakemap": "20261111060521.mmi.jpg"
+      "Dirasakan": "II Kolaka",
+      "Shakemap": "20261112211905.mmi.jpg"
     }
   }
 }
