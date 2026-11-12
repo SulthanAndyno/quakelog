@@ -1,5 +1,6 @@
 """Fetch: unduh tiga feed gempa BMKG dan simpan salinan mentahnya ke data/raw."""
 
+import http.client
 import json
 import logging
 import time
@@ -21,7 +22,7 @@ def fetch_feed(name: str, attempts: int = 3) -> dict:
             req = urllib.request.Request(f"{BASE_URL}/{name}.json", headers={"User-Agent": USER_AGENT})
             with urllib.request.urlopen(req, timeout=20) as resp:
                 return json.load(resp)
-        except (OSError, json.JSONDecodeError) as e:
+        except (OSError, http.client.HTTPException, json.JSONDecodeError) as e:
             log.warning("gagal mengambil %s (percobaan %d/%d): %s", name, i, attempts, e)
             if i < attempts:
                 time.sleep(5 * i)
