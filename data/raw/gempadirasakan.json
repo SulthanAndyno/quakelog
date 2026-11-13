@@ -3,6 +3,30 @@
     "gempa": [
       {
         "Tanggal": "13 Nov 2026",
+        "Jam": "14:31:39 WIB",
+        "DateTime": "2026-11-13T07:31:39+00:00",
+        "Coordinates": "-5.56,102.24",
+        "Lintang": "5.56 LS",
+        "Bujur": "102.24 BT",
+        "Magnitude": "4.1",
+        "Kedalaman": "24 km",
+        "Wilayah": "Pusat gempa berada di laut 24 km selatan Enggano",
+        "Dirasakan": "II - III Enggano"
+      },
+      {
+        "Tanggal": "13 Nov 2026",
+        "Jam": "11:49:34 WIB",
+        "DateTime": "2026-11-13T04:49:34+00:00",
+        "Coordinates": "-8.22,116.77",
+        "Lintang": "8.22 LS",
+        "Bujur": "116.77 BT",
+        "Magnitude": "4.9",
+        "Kedalaman": "17 km",
+        "Wilayah": "Pusat gempa berada di laut 29 km Barat Laut PULAUPANJANG",
+        "Dirasakan": "IV Kab. Lombok Timur, III Kab. Lombok Tengah, III Kab. Lombok Barat, II-III Kota Mataram, II Kab. Sumbawa"
+      },
+      {
+        "Tanggal": "13 Nov 2026",
         "Jam": "02:14:40 WIB",
         "DateTime": "2026-11-12T19:14:40+00:00",
         "Coordinates": "-8.20,116.76",
@@ -156,30 +180,6 @@
         "Kedalaman": "10 km",
         "Wilayah": "Pusat gempa berada di laut 1 km timur Jailolo",
         "Dirasakan": "II Kab. Halmahera Barat"
-      },
-      {
-        "Tanggal": "08 Nov 2026",
-        "Jam": "01:54:12 WIB",
-        "DateTime": "2026-11-07T18:54:12+00:00",
-        "Coordinates": "-4.01,122.69",
-        "Lintang": "4.01 LS",
-        "Bujur": "122.69 BT",
-        "Magnitude": "3.3",
-        "Kedalaman": "5 km",
-        "Wilayah": "Pusat gempa berada di darat 20 km timur Kendari",
-        "Dirasakan": ""
-      },
-      {
-        "Tanggal": "07 Nov 2026",
-        "Jam": "17:05:52 WIB",
-        "DateTime": "2026-11-07T10:05:52+00:00",
-        "Coordinates": "-8.37,116.54",
-        "Lintang": "8.37 LS",
-        "Bujur": "116.54 BT",
-        "Magnitude": "3.0",
-        "Kedalaman": "10 km",
-        "Wilayah": "Pusat gempa berada di darat 31 km utara Lombok Timur",
-        "Dirasakan": "II Lombok Timur"
       }
     ]
   }
