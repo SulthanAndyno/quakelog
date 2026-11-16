@@ -1,18 +1,18 @@
 {
   "Infogempa": {
     "gempa": {
-      "Tanggal": "15 Nov 2026",
-      "Jam": "22:41:15 WIB",
-      "DateTime": "2026-11-15T15:41:15+00:00",
-      "Coordinates": "1.79,122.30",
-      "Lintang": "1.79 LU",
-      "Bujur": "122.30 BT",
+      "Tanggal": "16 Nov 2026",
+      "Jam": "03:51:57 WIB",
+      "DateTime": "2026-11-15T20:51:57+00:00",
+      "Coordinates": "-5.97,128.82",
+      "Lintang": "5.97 LS",
+      "Bujur": "128.82 BT",
       "Magnitude": "5.4",
-      "Kedalaman": "465 km",
-      "Wilayah": "127 km BaratLaut GORONTALOUTARA-GORONTALO",
+      "Kedalaman": "323 km",
+      "Wilayah": "265 km Tenggara BURUSELATAN-MALUKU",
       "Potensi": "Tidak berpotensi tsunami",
       "Dirasakan": "-",
-      "Shakemap": "20261115224408.mmi.jpg"
+      "Shakemap": "20261116035430.mmi.jpg"
     }
   }
 }
