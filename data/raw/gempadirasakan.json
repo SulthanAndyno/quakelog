@@ -2,6 +2,18 @@
   "Infogempa": {
     "gempa": [
       {
+        "Tanggal": "16 Nov 2026",
+        "Jam": "18:36:57 WIB",
+        "DateTime": "2026-11-16T11:36:57+00:00",
+        "Coordinates": "-5.41,104.60",
+        "Lintang": "5.41 LS",
+        "Bujur": "104.60 BT",
+        "Magnitude": "3.8",
+        "Kedalaman": "10 km",
+        "Wilayah": "Pusat gempa berada di darat 12 km Barat Laut Tanggamus-Lampung",
+        "Dirasakan": "III Tanggamus"
+      },
+      {
         "Tanggal": "15 Nov 2026",
         "Jam": "04:24:20 WIB",
         "DateTime": "2026-11-14T21:24:20+00:00",
@@ -168,18 +180,6 @@
         "Kedalaman": "10 km",
         "Wilayah": "Pusat gempa berada di laut 44 km timur laut Mbay-Nagekeo",
         "Dirasakan": "II - III Kab. Nagekeo"
-      },
-      {
-        "Tanggal": "09 Nov 2026",
-        "Jam": "16:48:29 WIB",
-        "DateTime": "2026-11-09T09:48:29+00:00",
-        "Coordinates": "-2.93,130.44",
-        "Lintang": "2.93 LS",
-        "Bujur": "130.44 BT",
-        "Magnitude": "5.5",
-        "Kedalaman": "10 km",
-        "Wilayah": "Pusat gempa berada di laut 20 km barat laut Seram Bagian Timur",
-        "Dirasakan": "III-IV Kecamatan Bula"
       }
     ]
   }

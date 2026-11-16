@@ -2,17 +2,17 @@
   "Infogempa": {
     "gempa": {
       "Tanggal": "16 Nov 2026",
-      "Jam": "03:51:57 WIB",
-      "DateTime": "2026-11-15T20:51:57+00:00",
-      "Coordinates": "-5.97,128.82",
-      "Lintang": "5.97 LS",
-      "Bujur": "128.82 BT",
-      "Magnitude": "5.4",
-      "Kedalaman": "323 km",
-      "Wilayah": "265 km Tenggara BURUSELATAN-MALUKU",
-      "Potensi": "Tidak berpotensi tsunami",
-      "Dirasakan": "-",
-      "Shakemap": "20261116035430.mmi.jpg"
+      "Jam": "18:36:57 WIB",
+      "DateTime": "2026-11-16T11:36:57+00:00",
+      "Coordinates": "-5.41,104.60",
+      "Lintang": "5.41 LS",
+      "Bujur": "104.60 BT",
+      "Magnitude": "3.8",
+      "Kedalaman": "10 km",
+      "Wilayah": "Pusat gempa berada di darat 12 km Barat Laut Tanggamus-Lampung",
+      "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+      "Dirasakan": "III Tanggamus",
+      "Shakemap": "20261116183657.mmi.jpg"
     }
   }
 }
