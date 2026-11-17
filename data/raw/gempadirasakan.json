@@ -3,6 +3,18 @@
     "gempa": [
       {
         "Tanggal": "17 Nov 2026",
+        "Jam": "07:49:17 WIB",
+        "DateTime": "2026-11-17T00:49:17+00:00",
+        "Coordinates": "-8.22,120.66",
+        "Lintang": "8.22 LS",
+        "Bujur": "120.66 BT",
+        "Magnitude": "4.8",
+        "Kedalaman": "2 km",
+        "Wilayah": "Pusat gempa berada di laut 49 km timur laut Ruteng, Manggarai",
+        "Dirasakan": "III Kab. Manggarai"
+      },
+      {
+        "Tanggal": "17 Nov 2026",
         "Jam": "06:30:16 WIB",
         "DateTime": "2026-11-16T23:30:16+00:00",
         "Coordinates": "-7.00,106.95",
@@ -168,18 +180,6 @@
         "Kedalaman": "10 km",
         "Wilayah": "Pusat gempa berada di laut 69 km barat laut Kebar Manokwari",
         "Dirasakan": "II - III Manokwari"
-      },
-      {
-        "Tanggal": "10 Nov 2026",
-        "Jam": "08:53:28 WIB",
-        "DateTime": "2026-11-10T01:53:28+00:00",
-        "Coordinates": "-8.02,130.49",
-        "Lintang": "8.02 LS",
-        "Bujur": "130.49 BT",
-        "Magnitude": "5.4",
-        "Kedalaman": "84 km",
-        "Wilayah": "Pusat gempa berada di laut 90 km barat daya Tanimbar",
-        "Dirasakan": "III Saumlaki"
       }
     ]
   }
