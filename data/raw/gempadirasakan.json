@@ -3,6 +3,30 @@
     "gempa": [
       {
         "Tanggal": "18 Nov 2026",
+        "Jam": "23:11:00 WIB",
+        "DateTime": "2026-11-18T16:11:00+00:00",
+        "Coordinates": "-8.10,120.49",
+        "Lintang": "8.10 LS",
+        "Bujur": "120.49 BT",
+        "Magnitude": "4.0",
+        "Kedalaman": "3 km",
+        "Wilayah": "Pusat gempa berada di laut 57 km utara Ruteng - Manggarai",
+        "Dirasakan": "II Kab. Manggarai"
+      },
+      {
+        "Tanggal": "18 Nov 2026",
+        "Jam": "22:43:09 WIB",
+        "DateTime": "2026-11-18T15:43:09+00:00",
+        "Coordinates": "-4.04,122.46",
+        "Lintang": "4.04 LS",
+        "Bujur": "122.46 BT",
+        "Magnitude": "2.0",
+        "Kedalaman": "4 km",
+        "Wilayah": "Pusat gempa berada di darat 9 km barat daya Kendari",
+        "Dirasakan": "II Kendari"
+      },
+      {
+        "Tanggal": "18 Nov 2026",
         "Jam": "15:01:44 WIB",
         "DateTime": "2026-11-18T08:01:44+00:00",
         "Coordinates": "-8.24,120.52",
@@ -156,30 +180,6 @@
         "Kedalaman": "5 km",
         "Wilayah": "Pusat gempa berada di laut 50 km utara Ruteng, Manggarai",
         "Dirasakan": "III Kab. Manggarai"
-      },
-      {
-        "Tanggal": "18 Nov 2026",
-        "Jam": "11:43:31 WIB",
-        "DateTime": "2026-11-18T04:43:31+00:00",
-        "Coordinates": "-8.19,120.55",
-        "Lintang": "8.19 LS",
-        "Bujur": "120.55 BT",
-        "Magnitude": "4.8",
-        "Kedalaman": "7 km",
-        "Wilayah": "Pusat gempa berada di laut 48 km utara Ruteng, Manggarai",
-        "Dirasakan": "III-IV Kab. Manggarai"
-      },
-      {
-        "Tanggal": "18 Nov 2026",
-        "Jam": "11:41:32 WIB",
-        "DateTime": "2026-11-18T04:41:32+00:00",
-        "Coordinates": "-8.17,120.54",
-        "Lintang": "8.17 LS",
-        "Bujur": "120.54 BT",
-        "Magnitude": "5.8",
-        "Kedalaman": "10 km",
-        "Wilayah": "Pusat gempa berada di laut 49 km timur laut Ruteng-Manggarai",
-        "Dirasakan": "IV-V Kab. Manggarai, II-III Kab. Ngada, III-IV Kab. Sumba Timur , III-IV Kab. Sumba Barat Daya, III-IV Kab. Manggarai Barat"
       }
     ]
   }
