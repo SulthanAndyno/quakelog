@@ -2,6 +2,54 @@
   "Infogempa": {
     "gempa": [
       {
+        "Tanggal": "18 Nov 2026",
+        "Jam": "11:41:32 WIB",
+        "DateTime": "2026-11-18T04:41:32+00:00",
+        "Coordinates": "-8.17,120.54",
+        "Lintang": "8.17 LS",
+        "Bujur": "120.54 BT",
+        "Magnitude": "5.8",
+        "Kedalaman": "10 km",
+        "Wilayah": "Pusat gempa berada di laut 49 km timur laut Ruteng-Manggarai",
+        "Dirasakan": "IV-V Kab. Manggarai, II-III Kab. Ngada, III-IV Kab. Sumba Timur , III-IV Kab. Sumba Barat Daya, III-IV Kab. Manggarai Barat"
+      },
+      {
+        "Tanggal": "18 Nov 2026",
+        "Jam": "11:21:37 WIB",
+        "DateTime": "2026-11-18T04:21:37+00:00",
+        "Coordinates": "-8.16,120.58",
+        "Lintang": "8.16 LS",
+        "Bujur": "120.58 BT",
+        "Magnitude": "4.9",
+        "Kedalaman": "10 km",
+        "Wilayah": "Pusat gempa berada di laut 52 km utara Ruteng-Manggarai",
+        "Dirasakan": "III-IV Kab. Manggarai"
+      },
+      {
+        "Tanggal": "18 Nov 2026",
+        "Jam": "11:11:52 WIB",
+        "DateTime": "2026-11-18T04:11:52+00:00",
+        "Coordinates": "-8.08,120.54",
+        "Lintang": "8.08 LS",
+        "Bujur": "120.54 BT",
+        "Magnitude": "4.3",
+        "Kedalaman": "3 km",
+        "Wilayah": "Pusat gempa berada di laut 60 km utara Ruteng, Manggarai",
+        "Dirasakan": "II - III Kab. Manggarai"
+      },
+      {
+        "Tanggal": "18 Nov 2026",
+        "Jam": "10:24:03 WIB",
+        "DateTime": "2026-11-18T03:24:03+00:00",
+        "Coordinates": "-2.83,136.73",
+        "Lintang": "2.83 LS",
+        "Bujur": "136.73 BT",
+        "Magnitude": "5.3",
+        "Kedalaman": "56 km",
+        "Wilayah": "Pusat gempa berada di darat 75 km Barat Laut Intan Jaya",
+        "Dirasakan": "II-III Nabire"
+      },
+      {
         "Tanggal": "17 Nov 2026",
         "Jam": "07:49:17 WIB",
         "DateTime": "2026-11-17T00:49:17+00:00",
@@ -132,54 +180,6 @@
         "Kedalaman": "5 km",
         "Wilayah": "Pusat gempa berada di darat 23 km timur laut Kab. Gayo Lues",
         "Dirasakan": "III Gayo Lues, II-III Aceh Tengah, II-III Bener Meriah"
-      },
-      {
-        "Tanggal": "11 Nov 2026",
-        "Jam": "05:09:09 WIB",
-        "DateTime": "2026-11-10T22:09:09+00:00",
-        "Coordinates": "4.05,97.34",
-        "Lintang": "4.05 LU",
-        "Bujur": "97.34 BT",
-        "Magnitude": "4.9",
-        "Kedalaman": "4 km",
-        "Wilayah": "Pusat gempa berada di darat 6 km utara Kab. Gayo Lues",
-        "Dirasakan": "III-IV Gayo Lues, III-IV Aceh Timur, III Aceh Tengah, III Bener Meriah, III Lhokseumawe"
-      },
-      {
-        "Tanggal": "10 Nov 2026",
-        "Jam": "23:04:15 WIB",
-        "DateTime": "2026-11-10T16:04:15+00:00",
-        "Coordinates": "-4.29,122.38",
-        "Lintang": "4.29 LS",
-        "Bujur": "122.38 BT",
-        "Magnitude": "4.0",
-        "Kedalaman": "5 km",
-        "Wilayah": "Pusat gempa berada di darat 12 km timur Konawe Selatan",
-        "Dirasakan": "IV Konawe Selatan, III Kendari"
-      },
-      {
-        "Tanggal": "10 Nov 2026",
-        "Jam": "21:31:38 WIB",
-        "DateTime": "2026-11-10T14:31:38+00:00",
-        "Coordinates": "-7.04,106.98",
-        "Lintang": "7.04 LS",
-        "Bujur": "106.98 BT",
-        "Magnitude": "4.0",
-        "Kedalaman": "102 km",
-        "Wilayah": "Pusat gempa berada di darat 15 km selatan Kota Sukabumi",
-        "Dirasakan": "III Cianjur, II Sukabumi, II - III Ciwidey, II - III Pangalengan, II - III Nagrak, II Kec. Kebonpedes, II Cihanjuang, II Padalarang, II Cihideung, II Ngamprah, II Cisarua, II Lembang, II Karawang Selatan"
-      },
-      {
-        "Tanggal": "10 Nov 2026",
-        "Jam": "15:34:04 WIB",
-        "DateTime": "2026-11-10T08:34:04+00:00",
-        "Coordinates": "-0.19,132.98",
-        "Lintang": "0.19 LS",
-        "Bujur": "132.98 BT",
-        "Magnitude": "5.3",
-        "Kedalaman": "10 km",
-        "Wilayah": "Pusat gempa berada di laut 69 km barat laut Kebar Manokwari",
-        "Dirasakan": "II - III Manokwari"
       }
     ]
   }
