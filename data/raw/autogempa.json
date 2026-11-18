@@ -2,17 +2,17 @@
   "Infogempa": {
     "gempa": {
       "Tanggal": "18 Nov 2026",
-      "Jam": "11:41:32 WIB",
-      "DateTime": "2026-11-18T04:41:32+00:00",
-      "Coordinates": "-8.17,120.54",
-      "Lintang": "8.17 LS",
-      "Bujur": "120.54 BT",
-      "Magnitude": "5.8",
-      "Kedalaman": "10 km",
-      "Wilayah": "Pusat gempa berada di laut 49 km timur laut Ruteng-Manggarai",
+      "Jam": "15:01:44 WIB",
+      "DateTime": "2026-11-18T08:01:44+00:00",
+      "Coordinates": "-8.24,120.52",
+      "Lintang": "8.24 LS",
+      "Bujur": "120.52 BT",
+      "Magnitude": "4.2",
+      "Kedalaman": "19 km",
+      "Wilayah": "Pusat gempa berada di laut 42 km utara Ruteng-Manggarai",
       "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "IV-V Kab. Manggarai, II-III Kab. Ngada, III-IV Kab. Sumba Timur , III-IV Kab. Sumba Barat Daya, III-IV Kab. Manggarai Barat",
-      "Shakemap": "20261118114132.mmi.jpg"
+      "Dirasakan": "II - III Kab. Manggarai",
+      "Shakemap": "20261118150144.mmi.jpg"
     }
   }
 }
