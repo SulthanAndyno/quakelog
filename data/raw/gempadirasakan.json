@@ -2,6 +2,18 @@
   "Infogempa": {
     "gempa": [
       {
+        "Tanggal": "21 Nov 2026",
+        "Jam": "00:50:26 WIB",
+        "DateTime": "2026-11-20T17:50:26+00:00",
+        "Coordinates": "-7.51,106.85",
+        "Lintang": "7.51 LS",
+        "Bujur": "106.85 BT",
+        "Magnitude": "4.6",
+        "Kedalaman": "17 km",
+        "Wilayah": "Pusat gempa berada di laut 66 km selatan Kota Sukabumi",
+        "Dirasakan": "III Lengkong, III Pabuaran, III Ciemas, III Cidolog, II - III Palabuanratu, II - III Nagrak, II Kota Cimahi, II Ciparay, II Pangalengan, II Kab. Bandung"
+      },
+      {
         "Tanggal": "20 Nov 2026",
         "Jam": "20:51:01 WIB",
         "DateTime": "2026-11-20T13:51:01+00:00",
@@ -168,18 +180,6 @@
         "Kedalaman": "2 km",
         "Wilayah": "Pusat gempa berada di laut 60 km utara Ruteng, Manggarai",
         "Dirasakan": "III-IV Kab. Manggarai"
-      },
-      {
-        "Tanggal": "18 Nov 2026",
-        "Jam": "12:23:41 WIB",
-        "DateTime": "2026-11-18T05:23:41+00:00",
-        "Coordinates": "-8.17,120.51",
-        "Lintang": "8.17 LS",
-        "Bujur": "120.51 BT",
-        "Magnitude": "4.5",
-        "Kedalaman": "5 km",
-        "Wilayah": "Pusat gempa berada di laut 49 km utara Ruteng, Manggarai",
-        "Dirasakan": "III Kab. Manggarai"
       }
     ]
   }
