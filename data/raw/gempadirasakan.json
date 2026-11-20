@@ -3,6 +3,42 @@
     "gempa": [
       {
         "Tanggal": "20 Nov 2026",
+        "Jam": "20:51:01 WIB",
+        "DateTime": "2026-11-20T13:51:01+00:00",
+        "Coordinates": "-8.10,120.49",
+        "Lintang": "8.10 LS",
+        "Bujur": "120.49 BT",
+        "Magnitude": "3.6",
+        "Kedalaman": "3 km",
+        "Wilayah": "Pusat gempa berada di laut 57 km utara Ruteng-Manggarai",
+        "Dirasakan": "II - III Kab. Manggarai"
+      },
+      {
+        "Tanggal": "20 Nov 2026",
+        "Jam": "18:34:42 WIB",
+        "DateTime": "2026-11-20T11:34:42+00:00",
+        "Coordinates": "-3.88,122.51",
+        "Lintang": "3.88 LS",
+        "Bujur": "122.51 BT",
+        "Magnitude": "3.2",
+        "Kedalaman": "6 km",
+        "Wilayah": "Pusat gempa berada di laut 10 km Utara Kendari",
+        "Dirasakan": "III Kota Kendari, II - III Konawe Selatan"
+      },
+      {
+        "Tanggal": "20 Nov 2026",
+        "Jam": "18:33:00 WIB",
+        "DateTime": "2026-11-20T11:33:00+00:00",
+        "Coordinates": "-3.93,122.51",
+        "Lintang": "3.93 LS",
+        "Bujur": "122.51 BT",
+        "Magnitude": "3.7",
+        "Kedalaman": "5 km",
+        "Wilayah": "Pusat gempa berada di laut 5 km Utara Kendari",
+        "Dirasakan": "III-IV Kota Kendari, II-III Konawe Selatan, III Konawe Utara"
+      },
+      {
+        "Tanggal": "20 Nov 2026",
         "Jam": "04:42:40 WIB",
         "DateTime": "2026-11-19T21:42:40+00:00",
         "Coordinates": "-8.19,120.52",
@@ -144,42 +180,6 @@
         "Kedalaman": "5 km",
         "Wilayah": "Pusat gempa berada di laut 49 km utara Ruteng, Manggarai",
         "Dirasakan": "III Kab. Manggarai"
-      },
-      {
-        "Tanggal": "18 Nov 2026",
-        "Jam": "12:15:20 WIB",
-        "DateTime": "2026-11-18T05:15:20+00:00",
-        "Coordinates": "-8.11,120.55",
-        "Lintang": "8.11 LS",
-        "Bujur": "120.55 BT",
-        "Magnitude": "4.2",
-        "Kedalaman": "7 km",
-        "Wilayah": "Pusat gempa berada di laut 56 km utara Ruteng, Manggarai",
-        "Dirasakan": "III Kab. Manggarai"
-      },
-      {
-        "Tanggal": "18 Nov 2026",
-        "Jam": "12:11:30 WIB",
-        "DateTime": "2026-11-18T05:11:30+00:00",
-        "Coordinates": "-8.13,120.53",
-        "Lintang": "8.13 LS",
-        "Bujur": "120.53 BT",
-        "Magnitude": "4.0",
-        "Kedalaman": "5 km",
-        "Wilayah": "Pusat gempa berada di laut 54 km utara Ruteng, Manggarai",
-        "Dirasakan": "III Kab. Manggarai"
-      },
-      {
-        "Tanggal": "18 Nov 2026",
-        "Jam": "12:08:21 WIB",
-        "DateTime": "2026-11-18T05:08:21+00:00",
-        "Coordinates": "-8.18,120.48",
-        "Lintang": "8.18 LS",
-        "Bujur": "120.48 BT",
-        "Magnitude": "4.0",
-        "Kedalaman": "12 km",
-        "Wilayah": "Pusat gempa berada di laut 48 km utara Ruteng, Manggarai",
-        "Dirasakan": "II Kab. Manggarai"
       }
     ]
   }
