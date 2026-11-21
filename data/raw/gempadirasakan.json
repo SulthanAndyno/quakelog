@@ -2,6 +2,18 @@
   "Infogempa": {
     "gempa": [
       {
+        "Tanggal": "22 Nov 2026",
+        "Jam": "02:52:18 WIB",
+        "DateTime": "2026-11-21T19:52:18+00:00",
+        "Coordinates": "-1.27,100.28",
+        "Lintang": "1.27 LS",
+        "Bujur": "100.28 BT",
+        "Magnitude": "4.2",
+        "Kedalaman": "55 km",
+        "Wilayah": "Pusat gempa berada di laut 34 km Barat Pesisir Selatan",
+        "Dirasakan": "II - III Kota Padang, II - III Pesisir Selatan, I - II Solok"
+      },
+      {
         "Tanggal": "21 Nov 2026",
         "Jam": "16:42:11 WIB",
         "DateTime": "2026-11-21T09:42:11+00:00",
@@ -167,18 +179,6 @@
         "Magnitude": "4.2",
         "Kedalaman": "19 km",
         "Wilayah": "Pusat gempa berada di laut 42 km utara Ruteng-Manggarai",
-        "Dirasakan": "II - III Kab. Manggarai"
-      },
-      {
-        "Tanggal": "18 Nov 2026",
-        "Jam": "13:52:16 WIB",
-        "DateTime": "2026-11-18T06:52:16+00:00",
-        "Coordinates": "-8.10,120.51",
-        "Lintang": "8.10 LS",
-        "Bujur": "120.51 BT",
-        "Magnitude": "4.0",
-        "Kedalaman": "2 km",
-        "Wilayah": "Pusat gempa berada di laut 57 km utara Ruteng, Manggarai",
         "Dirasakan": "II - III Kab. Manggarai"
       }
     ]
