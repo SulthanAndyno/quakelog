@@ -3,6 +3,30 @@
     "gempa": [
       {
         "Tanggal": "21 Nov 2026",
+        "Jam": "09:37:18 WIB",
+        "DateTime": "2026-11-21T02:37:18+00:00",
+        "Coordinates": "-8.14,120.46",
+        "Lintang": "8.14 LS",
+        "Bujur": "120.46 BT",
+        "Magnitude": "4.0",
+        "Kedalaman": "5 km",
+        "Wilayah": "Pusat gempa berada di laut 52 km utara Ruteng, Manggarai",
+        "Dirasakan": "II - III Kab. Manggarai"
+      },
+      {
+        "Tanggal": "21 Nov 2026",
+        "Jam": "05:16:05 WIB",
+        "DateTime": "2026-11-20T22:16:05+00:00",
+        "Coordinates": "-8.07,120.56",
+        "Lintang": "8.07 LS",
+        "Bujur": "120.56 BT",
+        "Magnitude": "4.1",
+        "Kedalaman": "3 km",
+        "Wilayah": "Pusat gempa berada di laut 61 km utara Ruteng, Manggarai",
+        "Dirasakan": "II - III Kab. Manggarai"
+      },
+      {
+        "Tanggal": "21 Nov 2026",
         "Jam": "00:50:26 WIB",
         "DateTime": "2026-11-20T17:50:26+00:00",
         "Coordinates": "-7.51,106.85",
@@ -156,30 +180,6 @@
         "Kedalaman": "3 km",
         "Wilayah": "Pusat gempa berada di laut 55 km utara Ruteng, Manggarai",
         "Dirasakan": "III Kab. Manggarai"
-      },
-      {
-        "Tanggal": "18 Nov 2026",
-        "Jam": "12:48:50 WIB",
-        "DateTime": "2026-11-18T05:48:50+00:00",
-        "Coordinates": "-8.17,120.50",
-        "Lintang": "8.17 LS",
-        "Bujur": "120.50 BT",
-        "Magnitude": "4.1",
-        "Kedalaman": "5 km",
-        "Wilayah": "Pusat gempa berada di laut 49 km utara Ruteng, Manggarai",
-        "Dirasakan": "II Kab. Manggarai"
-      },
-      {
-        "Tanggal": "18 Nov 2026",
-        "Jam": "12:24:54 WIB",
-        "DateTime": "2026-11-18T05:24:54+00:00",
-        "Coordinates": "-8.08,120.56",
-        "Lintang": "8.08 LS",
-        "Bujur": "120.56 BT",
-        "Magnitude": "4.8",
-        "Kedalaman": "2 km",
-        "Wilayah": "Pusat gempa berada di laut 60 km utara Ruteng, Manggarai",
-        "Dirasakan": "III-IV Kab. Manggarai"
       }
     ]
   }
