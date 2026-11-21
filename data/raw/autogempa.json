@@ -2,17 +2,17 @@
   "Infogempa": {
     "gempa": {
       "Tanggal": "21 Nov 2026",
-      "Jam": "09:37:18 WIB",
-      "DateTime": "2026-11-21T02:37:18+00:00",
-      "Coordinates": "-8.14,120.46",
-      "Lintang": "8.14 LS",
-      "Bujur": "120.46 BT",
-      "Magnitude": "4.0",
-      "Kedalaman": "5 km",
-      "Wilayah": "Pusat gempa berada di laut 52 km utara Ruteng, Manggarai",
+      "Jam": "16:42:11 WIB",
+      "DateTime": "2026-11-21T09:42:11+00:00",
+      "Coordinates": "-7.88,127.51",
+      "Lintang": "7.88 LS",
+      "Bujur": "127.51 BT",
+      "Magnitude": "7.2",
+      "Kedalaman": "125 km",
+      "Wilayah": "Pusat gempa berada di laut 43 km barat laut Maluku Barat Daya",
       "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "II - III Kab. Manggarai",
-      "Shakemap": "20261121093718.mmi.jpg"
+      "Dirasakan": "IV Tiakur, III Saumlaki, III Waingapu, II-III Kupang, III Kab. Alor, IV Romang, IV Pulau Babar, II-III Kota Kupang, II-III Kab. Kupang, II-III Kab. Timur Tengah Utara, II-III Kab. Malaka, II-III Kab. Melu, II-III Kab. Lembata",
+      "Shakemap": "20261121164211.mmi.jpg"
     }
   }
 }
