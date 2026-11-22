@@ -3,6 +3,18 @@
     "gempa": [
       {
         "Tanggal": "22 Nov 2026",
+        "Jam": "06:16:01 WIB",
+        "DateTime": "2026-11-21T23:16:01+00:00",
+        "Coordinates": "-2.29,140.30",
+        "Lintang": "2.29 LS",
+        "Bujur": "140.30 BT",
+        "Magnitude": "4.8",
+        "Kedalaman": "6 km",
+        "Wilayah": "Pusat gempa berada di laut 35 km barat laut Sentani",
+        "Dirasakan": "II - III Kota Jayapura, II - III Kab. Jayapura"
+      },
+      {
+        "Tanggal": "22 Nov 2026",
         "Jam": "02:52:18 WIB",
         "DateTime": "2026-11-21T19:52:18+00:00",
         "Coordinates": "-1.27,100.28",
@@ -168,18 +180,6 @@
         "Kedalaman": "4 km",
         "Wilayah": "Pusat gempa berada di darat 9 km barat daya Kendari",
         "Dirasakan": "II Kendari"
-      },
-      {
-        "Tanggal": "18 Nov 2026",
-        "Jam": "15:01:44 WIB",
-        "DateTime": "2026-11-18T08:01:44+00:00",
-        "Coordinates": "-8.24,120.52",
-        "Lintang": "8.24 LS",
-        "Bujur": "120.52 BT",
-        "Magnitude": "4.2",
-        "Kedalaman": "19 km",
-        "Wilayah": "Pusat gempa berada di laut 42 km utara Ruteng-Manggarai",
-        "Dirasakan": "II - III Kab. Manggarai"
       }
     ]
   }
