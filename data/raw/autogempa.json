@@ -2,17 +2,17 @@
   "Infogempa": {
     "gempa": {
       "Tanggal": "23 Nov 2026",
-      "Jam": "14:36:24 WIB",
-      "DateTime": "2026-11-23T07:36:24+00:00",
-      "Coordinates": "-7.63,128.38",
-      "Lintang": "7.63 LS",
-      "Bujur": "128.38 BT",
-      "Magnitude": "5.4",
-      "Kedalaman": "141 km",
-      "Wilayah": "87 km TimurLaut MALUKUBRTDAYA",
+      "Jam": "18:24:32 WIB",
+      "DateTime": "2026-11-23T11:24:32+00:00",
+      "Coordinates": "1.44,131.96",
+      "Lintang": "1.44 LU",
+      "Bujur": "131.96 BT",
+      "Magnitude": "5.3",
+      "Kedalaman": "10 km",
+      "Wilayah": "241 km TimurLaut RAJAAMPAT-PAPUABRTDY",
       "Potensi": "Tidak berpotensi tsunami",
       "Dirasakan": "-",
-      "Shakemap": "20261123143908.mmi.jpg"
+      "Shakemap": "20261123182716.mmi.jpg"
     }
   }
 }
