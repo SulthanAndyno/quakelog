@@ -2,6 +2,18 @@
   "Infogempa": {
     "gempa": [
       {
+        "Tanggal": "25 Nov 2026",
+        "Jam": "12:33:27 WIB",
+        "DateTime": "2026-11-25T05:33:27+00:00",
+        "Coordinates": "-8.14,120.49",
+        "Lintang": "8.14 LS",
+        "Bujur": "120.49 BT",
+        "Magnitude": "4.0",
+        "Kedalaman": "5 km",
+        "Wilayah": "Pusat gempa berada di laut 53 km utara Ruteng-Manggarai",
+        "Dirasakan": "II Kab. Manggarai"
+      },
+      {
         "Tanggal": "22 Nov 2026",
         "Jam": "14:54:39 WIB",
         "DateTime": "2026-11-22T07:54:39+00:00",
@@ -168,18 +180,6 @@
         "Kedalaman": "12 km",
         "Wilayah": "Pusat gempa berada di laut 114 km Barat Daya Nias Barat",
         "Dirasakan": "II Nias Selatan"
-      },
-      {
-        "Tanggal": "18 Nov 2026",
-        "Jam": "23:11:00 WIB",
-        "DateTime": "2026-11-18T16:11:00+00:00",
-        "Coordinates": "-8.10,120.49",
-        "Lintang": "8.10 LS",
-        "Bujur": "120.49 BT",
-        "Magnitude": "4.0",
-        "Kedalaman": "3 km",
-        "Wilayah": "Pusat gempa berada di laut 57 km utara Ruteng - Manggarai",
-        "Dirasakan": "II Kab. Manggarai"
       }
     ]
   }
