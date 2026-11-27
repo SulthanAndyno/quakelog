@@ -70,3 +70,14 @@ def test_quality_flags_bad_rows():
     assert run_checks(archive) == {}
     archive["20261021T074415_-7.75_128.18"]["magnitude"] = "12.0"
     assert run_checks(archive) == {"magnitudo harus di antara 0 dan 10": ["20261021T074415_-7.75_128.18"]}
+
+
+def test_quality_reports_empty_and_non_numeric_values():
+    archive = {}
+    upsert(archive, parse_feeds(FEEDS), seen_at="2026-10-21T12:00:00Z")
+    archive["20261021T074415_-7.75_128.18"]["depth_km"] = ""
+    archive["20261021T115836_-5.40_104.68"]["magnitude"] = "abc"
+    assert run_checks(archive) == {
+        "kolom wajib tidak boleh kosong": ["20261021T074415_-7.75_128.18"],
+        "magnitudo harus di antara 0 dan 10": ["20261021T115836_-5.40_104.68"],
+    }
