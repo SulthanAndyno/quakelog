@@ -2,6 +2,18 @@
   "Infogempa": {
     "gempa": [
       {
+        "Tanggal": "28 Nov 2026",
+        "Jam": "02:28:05 WIB",
+        "DateTime": "2026-11-27T19:28:05+00:00",
+        "Coordinates": "-2.06,120.62",
+        "Lintang": "2.06 LS",
+        "Bujur": "120.62 BT",
+        "Magnitude": "4.3",
+        "Kedalaman": "4 km",
+        "Wilayah": "Pusat gempa berada di darat 62 km Timur Laut Luwu Utara",
+        "Dirasakan": "III Pendolo"
+      },
+      {
         "Tanggal": "27 Nov 2026",
         "Jam": "10:59:44 WIB",
         "DateTime": "2026-11-27T03:59:44+00:00",
@@ -168,18 +180,6 @@
         "Kedalaman": "3 km",
         "Wilayah": "Pusat gempa berada di laut 61 km utara Ruteng, Manggarai",
         "Dirasakan": "II - III Kab. Manggarai"
-      },
-      {
-        "Tanggal": "21 Nov 2026",
-        "Jam": "00:50:26 WIB",
-        "DateTime": "2026-11-20T17:50:26+00:00",
-        "Coordinates": "-7.51,106.85",
-        "Lintang": "7.51 LS",
-        "Bujur": "106.85 BT",
-        "Magnitude": "4.6",
-        "Kedalaman": "17 km",
-        "Wilayah": "Pusat gempa berada di laut 66 km selatan Kota Sukabumi",
-        "Dirasakan": "III Lengkong, III Pabuaran, III Ciemas, III Cidolog, II - III Palabuanratu, II - III Nagrak, II Kota Cimahi, II Ciparay, II Pangalengan, II Kab. Bandung"
       }
     ]
   }
