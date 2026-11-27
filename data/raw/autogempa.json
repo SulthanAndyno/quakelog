@@ -1,18 +1,18 @@
 {
   "Infogempa": {
     "gempa": {
-      "Tanggal": "26 Nov 2026",
-      "Jam": "22:40:36 WIB",
-      "DateTime": "2026-11-26T15:40:36+00:00",
-      "Coordinates": "-1.22,134.27",
-      "Lintang": "1.22 LS",
-      "Bujur": "134.27 BT",
-      "Magnitude": "4.2",
-      "Kedalaman": "14 km",
-      "Wilayah": "Pusat gempa berada di laut 34 km utara Ransiki",
+      "Tanggal": "27 Nov 2026",
+      "Jam": "10:59:44 WIB",
+      "DateTime": "2026-11-27T03:59:44+00:00",
+      "Coordinates": "4.74,96.74",
+      "Lintang": "4.74 LU",
+      "Bujur": "96.74 BT",
+      "Magnitude": "2.6",
+      "Kedalaman": "3 km",
+      "Wilayah": "Pusat gempa berada di darat 13 km barat Bener Meriah",
       "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
-      "Dirasakan": "II-III Manokwari",
-      "Shakemap": "20261126224036.mmi.jpg"
+      "Dirasakan": "II - III Bener Meriah",
+      "Shakemap": "20261127105944.mmi.jpg"
     }
   }
 }
