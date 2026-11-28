@@ -3,6 +3,18 @@
     "gempa": [
       {
         "Tanggal": "28 Nov 2026",
+        "Jam": "15:30:40 WIB",
+        "DateTime": "2026-11-28T08:30:40+00:00",
+        "Coordinates": "5.03,94.50",
+        "Lintang": "5.03 LU",
+        "Bujur": "94.50 BT",
+        "Magnitude": "4.6",
+        "Kedalaman": "11 km",
+        "Wilayah": "Pusat gempa berada di laut 125 km barat Jantho-Aceh Besar",
+        "Dirasakan": "II - III Banda Aceh, II - III Aceh Besar"
+      },
+      {
+        "Tanggal": "28 Nov 2026",
         "Jam": "02:28:05 WIB",
         "DateTime": "2026-11-27T19:28:05+00:00",
         "Coordinates": "-2.06,120.62",
@@ -167,18 +179,6 @@
         "Magnitude": "4.0",
         "Kedalaman": "5 km",
         "Wilayah": "Pusat gempa berada di laut 52 km utara Ruteng, Manggarai",
-        "Dirasakan": "II - III Kab. Manggarai"
-      },
-      {
-        "Tanggal": "21 Nov 2026",
-        "Jam": "05:16:05 WIB",
-        "DateTime": "2026-11-20T22:16:05+00:00",
-        "Coordinates": "-8.07,120.56",
-        "Lintang": "8.07 LS",
-        "Bujur": "120.56 BT",
-        "Magnitude": "4.1",
-        "Kedalaman": "3 km",
-        "Wilayah": "Pusat gempa berada di laut 61 km utara Ruteng, Manggarai",
         "Dirasakan": "II - III Kab. Manggarai"
       }
     ]
